@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
-  "id" : 447611,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-26T10:30:00",
-  "ereignisEnde" : "2024-01-26T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5332034.79,
-  "lat" : 694751.4,
-  "radius" : 52,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 447621,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-01-26T13:57:00",
