@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 447609,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-25T18:27:00",
-  "ereignisEnde" : "2024-01-26T14:45:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331842.06,
-  "lat" : 686115.97,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "20 - Hadern"
-}, {
   "id" : 447621,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-01-26T13:57:00",
