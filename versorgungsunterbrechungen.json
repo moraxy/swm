@@ -1,15 +1,1 @@
-[ {
-  "id" : 447621,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-26T13:57:00",
-  "ereignisEnde" : "2024-01-26T23:15:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5326927.01,
-  "lat" : 698890.57,
-  "radius" : 51,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-} ]
+[ ]
