@@ -1,18 +1,4 @@
 [ {
-  "id" : 447647,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-30T06:00:00",
-  "ereignisEnde" : "2024-01-30T15:00:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336214.45,
-  "lat" : 691345.54,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
   "id" : 447653,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-01-31T09:30:00",
