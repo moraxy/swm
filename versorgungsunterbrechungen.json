@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "3 - Maxvorstadt"
 }, {
+  "id" : 447653,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-01-31T09:30:00",
+  "ereignisEnde" : "2024-01-31T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5336250.77,
+  "lat" : 697510.55,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
+}, {
   "id" : 447654,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-01-31T08:00:00",
@@ -20,7 +34,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5338107.92,
   "lat" : 680028.49,
   "radius" : 410,
@@ -34,24 +48,10 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5347904.32,
   "lat" : 694403.97,
   "radius" : 143,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 447653,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-31T09:30:00",
-  "ereignisEnde" : "2024-01-31T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5336250.77,
-  "lat" : 697510.55,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
 } ]
