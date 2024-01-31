@@ -1,43 +1,13 @@
-[ {
-  "id" : 447653,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-31T09:30:00",
-  "ereignisEnde" : "2024-01-31T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336250.77,
-  "lat" : 697510.55,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
-  "id" : 447654,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-31T08:00:00",
-  "ereignisEnde" : "2024-01-31T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338107.92,
-  "lat" : 680028.49,
-  "radius" : 410,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
-  "id" : 447652,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-01-31T09:00:00",
-  "ereignisEnde" : "2024-01-31T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5347904.32,
-  "lat" : 694403.97,
-  "radius" : 143,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-} ]
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
+<!-- a padding to disable MSIE and Chrome friendly error page -->
