@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "8 - Schwanthalerhöhe"
 }, {
+  "id" : 447710,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-05T11:50:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330819.32,
+  "lat" : 695524.78,
+  "radius" : 153,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
   "id" : 447701,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-05T08:30:00",
@@ -20,7 +34,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5347308.2,
   "lat" : 697170.37,
   "radius" : 100,
