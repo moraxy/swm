@@ -54,4 +54,18 @@
   "radius" : 51,
   "besonderheit" : null,
   "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
+}, {
+  "id" : 447719,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-05T17:00:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5331673.93,
+  "lat" : 695499.22,
+  "radius" : 75,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
