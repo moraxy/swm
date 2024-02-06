@@ -55,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
 }, {
-  "id" : 447722,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-06T08:00:00",
-  "ereignisEnde" : "2024-02-06T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5332035.41,
-  "lat" : 694728.42,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 447723,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-06T09:30:00",
@@ -82,4 +68,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
+  "id" : 447722,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-06T08:00:00",
+  "ereignisEnde" : "2024-02-06T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5332035.41,
+  "lat" : 694728.42,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
