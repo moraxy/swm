@@ -55,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
 }, {
-  "id" : 447724,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-06T10:30:00",
-  "ereignisEnde" : "2024-02-06T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5333637.58,
-  "lat" : 694570.92,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "14 - Berg am Laim"
-}, {
   "id" : 447723,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-06T09:30:00",
@@ -110,4 +96,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 447724,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-06T10:30:00",
+  "ereignisEnde" : "2024-02-06T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333637.58,
+  "lat" : 694570.92,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "14 - Berg am Laim"
 } ]
