@@ -1,18 +1,4 @@
 [ {
-  "id" : 447700,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-04T19:52:00",
-  "ereignisEnde" : "2024-02-05T06:36:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334808.05,
-  "lat" : 689545.93,
-  "radius" : 139,
-  "besonderheit" : null,
-  "stadtbezirk" : "8 - Schwanthalerhöhe"
-}, {
   "id" : 447701,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-05T08:30:00",
