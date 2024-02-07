@@ -55,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "14 - Berg am Laim"
 }, {
-  "id" : 447737,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-07T09:00:00",
-  "ereignisEnde" : "2024-02-07T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5335016.93,
-  "lat" : 683972.4,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
   "id" : 447738,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-07T05:30:00",
@@ -96,4 +82,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 447737,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-07T09:00:00",
+  "ereignisEnde" : "2024-02-07T13:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5335016.93,
+  "lat" : 683972.4,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
 } ]
