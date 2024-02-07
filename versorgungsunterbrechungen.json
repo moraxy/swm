@@ -54,4 +54,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "14 - Berg am Laim"
+}, {
+  "id" : 447738,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-07T05:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5331680.9,
+  "lat" : 695476.72,
+  "radius" : 73,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
