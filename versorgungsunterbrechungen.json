@@ -55,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "14 - Berg am Laim"
 }, {
-  "id" : 447736,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-07T08:00:00",
-  "ereignisEnde" : "2024-02-07T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5332161.13,
-  "lat" : 688419.68,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 447737,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-07T09:00:00",
@@ -96,4 +82,18 @@
   "radius" : 73,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 447736,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-07T08:00:00",
+  "ereignisEnde" : "2024-02-07T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5332161.13,
+  "lat" : 688419.68,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
