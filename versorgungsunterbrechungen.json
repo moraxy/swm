@@ -1,32 +1,4 @@
 [ {
-  "id" : 447723,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-06T09:30:00",
-  "ereignisEnde" : "2024-02-06T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5335010.08,
-  "lat" : 683948.56,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
-  "id" : 447724,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-06T10:30:00",
-  "ereignisEnde" : "2024-02-06T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333637.58,
-  "lat" : 694570.92,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "14 - Berg am Laim"
-}, {
   "id" : 447738,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-07T05:30:00",
