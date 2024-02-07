@@ -1,18 +1,4 @@
 [ {
-  "id" : 447726,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-06T09:30:00",
-  "ereignisEnde" : "2024-02-06T11:41:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334906.16,
-  "lat" : 683499.05,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
   "id" : 447723,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-06T09:30:00",
