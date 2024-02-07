@@ -1,18 +1,4 @@
 [ {
-  "id" : 447722,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-06T08:00:00",
-  "ereignisEnde" : "2024-02-06T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5332035.41,
-  "lat" : 694728.42,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 447726,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-06T09:30:00",
@@ -69,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 447736,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-07T08:00:00",
-  "ereignisEnde" : "2024-02-07T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5332161.13,
-  "lat" : 688419.68,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 447737,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-07T09:00:00",
@@ -96,4 +68,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
+  "id" : 447736,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-07T08:00:00",
+  "ereignisEnde" : "2024-02-07T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5332161.13,
+  "lat" : 688419.68,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
