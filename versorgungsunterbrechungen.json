@@ -35,9 +35,9 @@
   "typ" : "UNGEPLANT",
   "sparte" : "STROM",
   "status" : "IN_BEARBEITUNG",
-  "lng" : 5339323.7,
-  "lat" : 684127.61,
-  "radius" : 40,
+  "lng" : 5339268.18,
+  "lat" : 684180.38,
+  "radius" : 115,
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
 } ]
