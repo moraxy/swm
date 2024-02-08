@@ -41,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
-  "id" : 447742,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-08T09:00:00",
-  "ereignisEnde" : "2024-02-08T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5327175.08,
-  "lat" : 700589.61,
-  "radius" : 107,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 447738,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-07T05:30:00",
@@ -68,4 +54,18 @@
   "radius" : 73,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 447742,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-08T09:00:00",
+  "ereignisEnde" : "2024-02-08T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5327175.08,
+  "lat" : 700589.61,
+  "radius" : 107,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
