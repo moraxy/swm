@@ -1,18 +1,4 @@
 [ {
-  "id" : 447742,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-08T09:00:00",
-  "ereignisEnde" : "2024-02-08T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5327175.08,
-  "lat" : 700589.61,
-  "radius" : 107,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 447784,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-08T16:36:00",
