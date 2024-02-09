@@ -1,18 +1,4 @@
 [ {
-  "id" : 447741,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-08T07:45:00",
-  "ereignisEnde" : "2024-02-08T08:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331368.57,
-  "lat" : 701051.65,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
-}, {
   "id" : 447742,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-08T09:00:00",
@@ -48,7 +34,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5336387.97,
   "lat" : 692255.3,
   "radius" : 147,
