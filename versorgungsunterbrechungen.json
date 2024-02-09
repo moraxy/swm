@@ -1,18 +1,4 @@
 [ {
-  "id" : 447784,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-08T16:36:00",
-  "ereignisEnde" : "2024-02-08T17:40:00",
-  "unterbrechungsgrund" : "FREMDBESCH",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5339268.18,
-  "lat" : 684180.38,
-  "radius" : 115,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
-}, {
   "id" : 447785,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-09T08:00:00",
