@@ -40,4 +40,18 @@
   "radius" : 45,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 447793,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-10T11:00:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5335736.23,
+  "lat" : 694360.21,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
