@@ -40,4 +40,18 @@
   "radius" : 45,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 447794,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-11T09:00:00",
+  "ereignisEnde" : "2024-02-11T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5335677.21,
+  "lat" : 682959.35,
+  "radius" : 165,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
 } ]
