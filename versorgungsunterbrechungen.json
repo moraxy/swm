@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
 }, {
+  "id" : 447796,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-12T12:30:00",
+  "ereignisEnde" : "2024-02-12T14:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5329586.29,
+  "lat" : 685338.53,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
   "id" : 447795,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-12T09:00:00",
@@ -20,7 +34,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5329789.16,
   "lat" : 685490.25,
   "radius" : 66,
