@@ -40,4 +40,18 @@
   "radius" : 66,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 447804,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-12T11:26:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333777.83,
+  "lat" : 692252.74,
+  "radius" : 63,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
 } ]
