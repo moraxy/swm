@@ -1,18 +1,4 @@
 [ {
-  "id" : 447804,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-12T11:26:00",
-  "ereignisEnde" : "2024-02-12T21:10:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333777.83,
-  "lat" : 692252.74,
-  "radius" : 63,
-  "besonderheit" : null,
-  "stadtbezirk" : "5 - Au-Haidhausen"
-}, {
   "id" : 447808,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-13T09:00:00",
