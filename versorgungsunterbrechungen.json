@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
 }, {
-  "id" : 447808,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-13T09:00:00",
-  "ereignisEnde" : "2024-02-13T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5329757.53,
-  "lat" : 685329.16,
-  "radius" : 113,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
   "id" : 447807,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-13T11:00:00",
@@ -54,6 +40,20 @@
   "radius" : 160,
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
+  "id" : 447808,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-13T09:00:00",
+  "ereignisEnde" : "2024-02-13T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5329757.53,
+  "lat" : 685329.16,
+  "radius" : 113,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 }, {
   "id" : 447809,
   "nameExtern" : "Ausfall im Stromnetz",
