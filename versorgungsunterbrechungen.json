@@ -41,34 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
 }, {
-  "id" : 447830,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-14T09:00:00",
-  "ereignisEnde" : "2024-02-14T14:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5329679.39,
-  "lat" : 685372.47,
-  "radius" : 94,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
-  "id" : 447831,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-14T09:00:00",
-  "ereignisEnde" : "2024-02-14T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5338978.58,
-  "lat" : 689765.01,
-  "radius" : 172,
-  "besonderheit" : null,
-  "stadtbezirk" : "11 - Milbertshofen-Am Hart"
-}, {
   "id" : 447832,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-14T10:00:00",
@@ -82,4 +54,32 @@
   "radius" : 126,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
+}, {
+  "id" : 447830,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-14T09:00:00",
+  "ereignisEnde" : "2024-02-14T14:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5329679.39,
+  "lat" : 685372.47,
+  "radius" : 94,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 447831,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-14T09:00:00",
+  "ereignisEnde" : "2024-02-14T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5338978.58,
+  "lat" : 689765.01,
+  "radius" : 172,
+  "besonderheit" : null,
+  "stadtbezirk" : "11 - Milbertshofen-Am Hart"
 } ]
