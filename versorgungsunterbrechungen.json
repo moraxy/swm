@@ -27,34 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
 }, {
-  "id" : 447809,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-13T08:00:00",
-  "ereignisEnde" : "2024-02-13T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333414.65,
-  "lat" : 692538.13,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "5 - Au-Haidhausen"
-}, {
-  "id" : 447832,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-14T10:00:00",
-  "ereignisEnde" : "2024-02-14T15:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5331937.21,
-  "lat" : 685861.84,
-  "radius" : 126,
-  "besonderheit" : null,
-  "stadtbezirk" : "20 - Hadern"
-}, {
   "id" : 447830,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-14T09:00:00",
@@ -82,4 +54,18 @@
   "radius" : 172,
   "besonderheit" : null,
   "stadtbezirk" : "11 - Milbertshofen-Am Hart"
+}, {
+  "id" : 447832,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-14T10:00:00",
+  "ereignisEnde" : "2024-02-14T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5331937.21,
+  "lat" : 685861.84,
+  "radius" : 126,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
