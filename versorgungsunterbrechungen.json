@@ -54,4 +54,18 @@
   "radius" : 172,
   "besonderheit" : null,
   "stadtbezirk" : "11 - Milbertshofen-Am Hart"
+}, {
+  "id" : 447843,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-14T12:06:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5336050.55,
+  "lat" : 683279.49,
+  "radius" : 109,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
 } ]
