@@ -68,4 +68,18 @@
   "radius" : 172,
   "besonderheit" : null,
   "stadtbezirk" : "11 - Milbertshofen-Am Hart"
+}, {
+  "id" : 447832,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-14T10:00:00",
+  "ereignisEnde" : "2024-02-14T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5331937.21,
+  "lat" : 685861.84,
+  "radius" : 126,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
