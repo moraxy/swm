@@ -1,18 +1,4 @@
 [ {
-  "id" : 447831,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-14T09:00:00",
-  "ereignisEnde" : "2024-02-14T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338978.58,
-  "lat" : 689765.01,
-  "radius" : 172,
-  "besonderheit" : null,
-  "stadtbezirk" : "11 - Milbertshofen-Am Hart"
-}, {
   "id" : 447843,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-14T12:06:00",
@@ -69,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
-  "id" : 447850,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-15T08:00:00",
-  "ereignisEnde" : "2024-02-15T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5327205.43,
-  "lat" : 700183.77,
-  "radius" : 90,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 447851,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-15T08:00:00",
@@ -136,6 +108,20 @@
   "lng" : 5372607.53,
   "lat" : 716849.02,
   "radius" : 184,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 447850,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-15T08:00:00",
+  "ereignisEnde" : "2024-02-15T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5327205.43,
+  "lat" : 700183.77,
+  "radius" : 90,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 } ]
