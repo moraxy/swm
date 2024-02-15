@@ -83,6 +83,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
+  "id" : 447853,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-15T09:00:00",
+  "ereignisEnde" : "2024-02-15T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5372607.53,
+  "lat" : 716849.02,
+  "radius" : 184,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 447851,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-15T08:00:00",
@@ -93,6 +107,20 @@
   "status" : "GEPLANT",
   "lng" : 5331928.54,
   "lat" : 688300.96,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 447852,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-15T09:00:00",
+  "ereignisEnde" : "2024-02-15T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5331221.46,
+  "lat" : 686678.14,
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
