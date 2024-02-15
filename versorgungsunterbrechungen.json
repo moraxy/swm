@@ -62,26 +62,12 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5333478.69,
   "lat" : 683503.13,
   "radius" : 188,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
-}, {
-  "id" : 447850,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-15T08:00:00",
-  "ereignisEnde" : "2024-02-15T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5327205.43,
-  "lat" : 700183.77,
-  "radius" : 90,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
 }, {
   "id" : 447853,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -96,20 +82,6 @@
   "radius" : 184,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 447851,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-15T08:00:00",
-  "ereignisEnde" : "2024-02-15T13:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5331928.54,
-  "lat" : 688300.96,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
 }, {
   "id" : 447852,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -138,4 +110,32 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 447850,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-15T08:00:00",
+  "ereignisEnde" : "2024-02-15T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5327205.43,
+  "lat" : 700183.77,
+  "radius" : 90,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 447851,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-15T08:00:00",
+  "ereignisEnde" : "2024-02-15T13:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5331928.54,
+  "lat" : 688300.96,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
