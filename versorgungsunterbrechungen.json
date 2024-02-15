@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
 }, {
-  "id" : 447832,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-14T10:00:00",
-  "ereignisEnde" : "2024-02-14T15:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331937.21,
-  "lat" : 685861.84,
-  "radius" : 126,
-  "besonderheit" : null,
-  "stadtbezirk" : "20 - Hadern"
-}, {
   "id" : 447849,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-15T08:00:00",
