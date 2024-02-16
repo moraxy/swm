@@ -125,20 +125,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "17 - Obergiesing-Fasangarten"
 }, {
-  "id" : 447874,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-16T08:30:00",
-  "ereignisEnde" : "2024-02-16T09:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5331917.75,
-  "lat" : 688193.29,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 447876,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-16T09:00:00",
@@ -152,4 +138,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 447874,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-16T08:30:00",
+  "ereignisEnde" : "2024-02-16T09:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5331917.75,
+  "lat" : 688193.29,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
