@@ -12,18 +12,4 @@
   "radius" : 109,
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
-  "id" : 447877,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-16T11:00:00",
-  "ereignisEnde" : "2024-02-16T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331087.19,
-  "lat" : 692693.09,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "17 - Obergiesing-Fasangarten"
 } ]
