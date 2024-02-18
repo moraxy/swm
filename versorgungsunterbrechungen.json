@@ -1,1 +1,15 @@
-[ ]
+[ {
+  "id" : 447888,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-18T08:30:00",
+  "ereignisEnde" : "2024-02-18T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5335063.51,
+  "lat" : 693312.0,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
+} ]
