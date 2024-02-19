@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
 }, {
-  "id" : 447889,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-19T08:00:00",
-  "ereignisEnde" : "2024-02-19T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5335499.7,
-  "lat" : 696512.42,
-  "radius" : 88,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
   "id" : 447890,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-19T09:00:00",
@@ -38,6 +24,34 @@
   "lng" : 5331296.5,
   "lat" : 686765.01,
   "radius" : 33,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 447889,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-19T08:00:00",
+  "ereignisEnde" : "2024-02-19T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5335499.7,
+  "lat" : 696512.42,
+  "radius" : 88,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 447891,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-19T10:00:00",
+  "ereignisEnde" : "2024-02-19T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5331294.12,
+  "lat" : 686813.26,
+  "radius" : 29,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
