@@ -54,4 +54,18 @@
   "radius" : 39,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 447918,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-20T11:49:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "FREMDBESCH",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337653.84,
+  "lat" : 692394.71,
+  "radius" : 70,
+  "besonderheit" : null,
+  "stadtbezirk" : "12 - Schwabing-Freimann"
 } ]
