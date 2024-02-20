@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
 }, {
-  "id" : 447891,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-19T10:00:00",
-  "ereignisEnde" : "2024-02-19T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331294.12,
-  "lat" : 686813.26,
-  "radius" : 29,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 447893,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-19T13:00:00",
@@ -40,20 +26,6 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
-  "id" : 447908,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-20T11:00:00",
-  "ereignisEnde" : "2024-02-20T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5331223.04,
-  "lat" : 686791.06,
-  "radius" : 39,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
 }, {
   "id" : 447909,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -80,6 +52,20 @@
   "lng" : 5331125.18,
   "lat" : 686671.06,
   "radius" : 45,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 447908,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-20T11:00:00",
+  "ereignisEnde" : "2024-02-20T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5331223.04,
+  "lat" : 686791.06,
+  "radius" : 39,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
