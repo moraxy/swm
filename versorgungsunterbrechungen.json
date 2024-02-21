@@ -1,32 +1,4 @@
 [ {
-  "id" : 447909,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-20T09:00:00",
-  "ereignisEnde" : "2024-02-20T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331181.26,
-  "lat" : 686726.83,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
-  "id" : 447910,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-20T09:00:00",
-  "ereignisEnde" : "2024-02-20T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331125.18,
-  "lat" : 686671.06,
-  "radius" : 45,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 447908,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-20T11:00:00",
