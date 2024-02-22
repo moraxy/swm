@@ -1,18 +1,4 @@
 [ {
-  "id" : 447919,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-21T08:00:00",
-  "ereignisEnde" : "2024-02-21T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331467.17,
-  "lat" : 694786.15,
-  "radius" : 66,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 447934,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-21T23:30:00",
@@ -40,4 +26,18 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
+}, {
+  "id" : 447937,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-22T11:45:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5331645.18,
+  "lat" : 695542.74,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
