@@ -12,4 +12,18 @@
   "radius" : 66,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 447934,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-21T23:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5332283.27,
+  "lat" : 694154.18,
+  "radius" : 72,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
