@@ -41,6 +41,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
+  "id" : 447939,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-23T08:00:00",
+  "ereignisEnde" : "2024-02-23T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338361.56,
+  "lat" : 684215.72,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
   "id" : 447941,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-22T22:25:00",
