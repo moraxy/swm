@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
 }, {
-  "id" : 447940,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-23T10:00:00",
-  "ereignisEnde" : "2024-02-23T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5343522.24,
-  "lat" : 690234.39,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
   "id" : 447939,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-23T08:00:00",
