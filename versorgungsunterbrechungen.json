@@ -1,1 +1,15 @@
-[ ]
+[ {
+  "id" : 447950,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-25T12:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5338822.24,
+  "lat" : 690474.4,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "4 - Schwabing-West"
+} ]
