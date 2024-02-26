@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 }, {
-  "id" : 447969,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-26T14:18:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "FREMDBESCH",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5332075.28,
-  "lat" : 684201.92,
-  "radius" : 113,
-  "besonderheit" : null,
-  "stadtbezirk" : "20 - Hadern"
-}, {
   "id" : 447953,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-26T13:00:00",
@@ -54,4 +40,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
+}, {
+  "id" : 447969,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-26T14:18:00",
+  "ereignisEnde" : "2024-02-26T19:46:00",
+  "unterbrechungsgrund" : "FREMDBESCH",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5332075.28,
+  "lat" : 684201.92,
+  "radius" : 113,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
