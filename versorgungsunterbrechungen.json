@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "4 - Schwabing-West"
 }, {
+  "id" : 447953,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-26T13:00:00",
+  "ereignisEnde" : "2024-02-26T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5339194.14,
+  "lat" : 678848.39,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
+}, {
   "id" : 447951,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-26T08:00:00",
