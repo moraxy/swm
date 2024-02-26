@@ -1,18 +1,4 @@
 [ {
-  "id" : 447950,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-25T12:33:00",
-  "ereignisEnde" : "2024-02-25T14:21:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338839.11,
-  "lat" : 690460.34,
-  "radius" : 49,
-  "besonderheit" : null,
-  "stadtbezirk" : "4 - Schwabing-West"
-}, {
   "id" : 447952,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-26T09:00:00",
@@ -54,4 +40,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
+}, {
+  "id" : 447969,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-26T14:18:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "FREMDBESCH",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5332075.28,
+  "lat" : 684201.92,
+  "radius" : 113,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
