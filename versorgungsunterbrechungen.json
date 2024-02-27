@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
 }, {
+  "id" : 447971,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-27T13:00:00",
+  "ereignisEnde" : "2024-02-27T15:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333409.63,
+  "lat" : 698071.74,
+  "radius" : 41,
+  "besonderheit" : null,
+  "stadtbezirk" : "15 - Trudering-Riem"
+}, {
   "id" : 447953,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-26T13:00:00",
@@ -40,20 +54,6 @@
   "radius" : 113,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
-}, {
-  "id" : 447971,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-27T13:00:00",
-  "ereignisEnde" : "2024-02-27T15:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5333409.63,
-  "lat" : 698071.74,
-  "radius" : 41,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
 }, {
   "id" : 447973,
   "nameExtern" : "Ausfall im Stromnetz",
