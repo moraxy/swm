@@ -1,4 +1,18 @@
 [ {
+  "id" : 447972,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-27T09:00:00",
+  "ereignisEnde" : "2024-02-27T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5341126.58,
+  "lat" : 694808.45,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "12 - Schwabing-Freimann"
+}, {
   "id" : 447952,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-26T09:00:00",
@@ -54,20 +68,6 @@
   "radius" : 113,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
-}, {
-  "id" : 447972,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-27T09:00:00",
-  "ereignisEnde" : "2024-02-27T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5341126.58,
-  "lat" : 694808.45,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "12 - Schwabing-Freimann"
 }, {
   "id" : 447973,
   "nameExtern" : "Ausfall im Stromnetz",
