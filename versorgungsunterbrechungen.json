@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
 }, {
-  "id" : 447951,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-26T08:00:00",
-  "ereignisEnde" : "2024-02-26T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338021.67,
-  "lat" : 677008.73,
-  "radius" : 442,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
   "id" : 447953,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-26T13:00:00",
@@ -76,7 +62,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5336349.44,
   "lat" : 681073.79,
   "radius" : 33,
