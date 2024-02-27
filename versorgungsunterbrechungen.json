@@ -6,7 +6,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5341126.58,
   "lat" : 694808.45,
   "radius" : 100,
@@ -54,6 +54,20 @@
   "radius" : 113,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
+}, {
+  "id" : 447971,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-27T13:00:00",
+  "ereignisEnde" : "2024-02-27T15:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5333409.63,
+  "lat" : 698071.74,
+  "radius" : 41,
+  "besonderheit" : null,
+  "stadtbezirk" : "15 - Trudering-Riem"
 }, {
   "id" : 447973,
   "nameExtern" : "Ausfall im Stromnetz",
