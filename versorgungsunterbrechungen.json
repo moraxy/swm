@@ -6,7 +6,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5337556.19,
   "lat" : 698911.47,
   "radius" : 381,
@@ -26,18 +26,4 @@
   "radius" : 41,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
-}, {
-  "id" : 447973,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-27T08:00:00",
-  "ereignisEnde" : "2024-02-27T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336349.44,
-  "lat" : 681073.79,
-  "radius" : 33,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 } ]
