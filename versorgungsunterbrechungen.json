@@ -12,18 +12,4 @@
   "radius" : 381,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
-}, {
-  "id" : 447971,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-27T13:00:00",
-  "ereignisEnde" : "2024-02-27T15:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333409.63,
-  "lat" : 698071.74,
-  "radius" : 41,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
 } ]
