@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
 }, {
+  "id" : 448069,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-29T09:30:00",
+  "ereignisEnde" : "2024-02-29T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5328846.52,
+  "lat" : 699671.72,
+  "radius" : 129,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
   "id" : 448070,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-29T08:30:00",
