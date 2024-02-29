@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 448068,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-29T10:30:00",
-  "ereignisEnde" : "2024-02-29T11:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5328927.19,
-  "lat" : 699606.62,
-  "radius" : 86,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 448071,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-29T08:00:00",
@@ -55,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
-  "id" : 448069,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-29T09:30:00",
-  "ereignisEnde" : "2024-02-29T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5328846.52,
-  "lat" : 699671.72,
-  "radius" : 129,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 448070,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-02-29T08:30:00",
@@ -80,6 +52,34 @@
   "lng" : 5328740.59,
   "lat" : 699663.47,
   "radius" : 161,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 448068,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-29T10:30:00",
+  "ereignisEnde" : "2024-02-29T11:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5328927.19,
+  "lat" : 699606.62,
+  "radius" : 86,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 448069,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-02-29T09:30:00",
+  "ereignisEnde" : "2024-02-29T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5328846.52,
+  "lat" : 699671.72,
+  "radius" : 129,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
