@@ -1,17 +1,17 @@
 [ {
-  "id" : 448071,
+  "id" : 448088,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-02-29T08:00:00",
-  "ereignisEnde" : "2024-02-29T11:00:00",
+  "ereignisBeginn" : "2024-03-01T08:00:00",
+  "ereignisEnde" : "2024-03-01T11:00:00",
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
   "status" : "ERLEDIGT",
-  "lng" : 5332301.46,
-  "lat" : 697977.22,
-  "radius" : 85,
+  "lng" : 5338640.48,
+  "lat" : 695045.23,
+  "radius" : 54,
   "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
+  "stadtbezirk" : "13 - Bogenhausen"
 }, {
   "id" : 448068,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -40,20 +40,6 @@
   "radius" : 96,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
-  "id" : 448088,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-01T08:00:00",
-  "ereignisEnde" : "2024-03-01T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5338640.48,
-  "lat" : 695045.23,
-  "radius" : 54,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
 }, {
   "id" : 448089,
   "nameExtern" : "Ausfall im Stromnetz",
