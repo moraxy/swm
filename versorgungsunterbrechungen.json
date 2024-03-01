@@ -69,6 +69,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
+  "id" : 448087,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-01T09:00:00",
+  "ereignisEnde" : "2024-03-01T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5328899.23,
+  "lat" : 699444.74,
+  "radius" : 123,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
   "id" : 448088,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-01T08:00:00",
