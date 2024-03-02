@@ -40,32 +40,4 @@
   "radius" : 84,
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
-}, {
-  "id" : 448089,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-01T08:00:00",
-  "ereignisEnde" : "2024-03-01T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334999.96,
-  "lat" : 686050.94,
-  "radius" : 28,
-  "besonderheit" : null,
-  "stadtbezirk" : "25 - Laim"
-}, {
-  "id" : 448087,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-01T09:00:00",
-  "ereignisEnde" : "2024-03-01T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5328899.23,
-  "lat" : 699444.74,
-  "radius" : 123,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
