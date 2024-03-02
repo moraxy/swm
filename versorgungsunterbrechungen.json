@@ -1,18 +1,4 @@
 [ {
-  "id" : 448096,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-02T14:30:00",
-  "ereignisEnde" : "2024-03-02T16:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5330530.25,
-  "lat" : 688493.36,
-  "radius" : 42,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
   "id" : 448095,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-01T13:30:00",
@@ -40,4 +26,18 @@
   "radius" : 84,
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
+}, {
+  "id" : 448096,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-02T14:30:00",
+  "ereignisEnde" : "2024-03-02T16:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330530.25,
+  "lat" : 688493.36,
+  "radius" : 42,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 } ]
