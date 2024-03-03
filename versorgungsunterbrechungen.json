@@ -1,18 +1,4 @@
 [ {
-  "id" : 448098,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-03T08:00:00",
-  "ereignisEnde" : "2024-03-03T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5334586.77,
-  "lat" : 701198.52,
-  "radius" : 93,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
-}, {
   "id" : 448097,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-02T09:30:00",
@@ -40,4 +26,18 @@
   "radius" : 42,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448098,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-03T08:00:00",
+  "ereignisEnde" : "2024-03-03T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334586.77,
+  "lat" : 701198.52,
+  "radius" : 93,
+  "besonderheit" : null,
+  "stadtbezirk" : "15 - Trudering-Riem"
 } ]
