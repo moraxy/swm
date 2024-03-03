@@ -1,17 +1,17 @@
 [ {
-  "id" : 448096,
+  "id" : 448099,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-02T14:30:00",
-  "ereignisEnde" : "2024-03-02T16:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
+  "ereignisBeginn" : "2024-03-03T15:18:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
   "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330530.25,
-  "lat" : 688493.36,
-  "radius" : 42,
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330993.75,
+  "lat" : 686277.46,
+  "radius" : 80,
   "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+  "stadtbezirk" : "7 - Sendling-Westpark"
 }, {
   "id" : 448098,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -26,18 +26,4 @@
   "radius" : 93,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
-}, {
-  "id" : 448099,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-03T15:18:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5330993.75,
-  "lat" : 686277.46,
-  "radius" : 80,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
