@@ -1,18 +1,4 @@
 [ {
-  "id" : 448101,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-03T19:30:00",
-  "ereignisEnde" : "2024-03-03T20:56:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338872.13,
-  "lat" : 692488.96,
-  "radius" : 3971,
-  "besonderheit" : null,
-  "stadtbezirk" : "12 - Schwabing-Freimann"
-}, {
   "id" : 448102,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-04T09:00:00",
@@ -26,20 +12,6 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
-  "id" : 448100,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-03T19:30:00",
-  "ereignisEnde" : "2024-03-03T20:56:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338872.13,
-  "lat" : 692488.96,
-  "radius" : 1434,
-  "besonderheit" : null,
-  "stadtbezirk" : "12 - Schwabing-Freimann"
 }, {
   "id" : 448118,
   "nameExtern" : "Ausfall im Stromnetz",
