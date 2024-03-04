@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
 }, {
-  "id" : 448099,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-03T15:18:00",
-  "ereignisEnde" : "2024-03-03T16:50:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330993.75,
-  "lat" : 686277.46,
-  "radius" : 80,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 448102,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-04T09:00:00",
