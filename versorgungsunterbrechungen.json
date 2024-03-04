@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
 }, {
-  "id" : 448118,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-04T17:15:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5336508.77,
-  "lat" : 692366.84,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
   "id" : 448102,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-04T09:00:00",
@@ -54,4 +40,18 @@
   "radius" : 1434,
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
+}, {
+  "id" : 448118,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-04T17:15:00",
+  "ereignisEnde" : "2024-03-04T19:44:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5336508.77,
+  "lat" : 692366.84,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
 } ]
