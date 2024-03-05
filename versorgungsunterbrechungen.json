@@ -1,18 +1,4 @@
 [ {
-  "id" : 448102,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-04T09:00:00",
-  "ereignisEnde" : "2024-03-04T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5343560.91,
-  "lat" : 690260.68,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
   "id" : 448118,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-04T17:15:00",
