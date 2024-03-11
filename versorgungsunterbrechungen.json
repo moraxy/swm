@@ -13,33 +13,19 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 448189,
+  "id" : 448190,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-11T10:00:00",
-  "ereignisEnde" : "2024-03-11T11:30:00",
+  "ereignisBeginn" : "2024-03-11T12:00:00",
+  "ereignisEnde" : "2024-03-11T13:00:00",
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
   "status" : "GEPLANT",
-  "lng" : 5330878.62,
-  "lat" : 689115.86,
-  "radius" : 25,
+  "lng" : 5330770.62,
+  "lat" : 689146.8,
+  "radius" : 63,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
-  "id" : 448187,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-11T08:00:00",
-  "ereignisEnde" : "2024-03-11T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5332884.02,
-  "lat" : 690450.59,
-  "radius" : 42,
-  "besonderheit" : null,
-  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
 }, {
   "id" : 448188,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -54,4 +40,32 @@
   "radius" : 140,
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
+  "id" : 448189,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-11T10:00:00",
+  "ereignisEnde" : "2024-03-11T11:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330878.62,
+  "lat" : 689115.86,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448187,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-11T08:00:00",
+  "ereignisEnde" : "2024-03-11T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5332884.02,
+  "lat" : 690450.59,
+  "radius" : 42,
+  "besonderheit" : null,
+  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
 } ]
