@@ -1,18 +1,4 @@
 [ {
-  "id" : 448186,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-10T09:00:00",
-  "ereignisEnde" : "2024-03-10T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5326624.64,
-  "lat" : 698440.61,
-  "radius" : 82,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448187,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-11T08:00:00",
@@ -62,7 +48,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5330770.62,
   "lat" : 689146.8,
   "radius" : 63,
