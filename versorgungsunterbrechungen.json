@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 448190,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-11T12:00:00",
-  "ereignisEnde" : "2024-03-11T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5330770.62,
-  "lat" : 689146.8,
-  "radius" : 63,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
   "id" : 448187,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-11T08:00:00",
@@ -66,6 +52,20 @@
   "lng" : 5330878.62,
   "lat" : 689115.86,
   "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448190,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-11T12:00:00",
+  "ereignisEnde" : "2024-03-11T13:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330770.62,
+  "lat" : 689146.8,
+  "radius" : 63,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 } ]
