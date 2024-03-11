@@ -12,4 +12,32 @@
   "radius" : 82,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 448187,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-11T08:00:00",
+  "ereignisEnde" : "2024-03-11T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5332884.02,
+  "lat" : 690450.59,
+  "radius" : 42,
+  "besonderheit" : null,
+  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
+}, {
+  "id" : 448188,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-11T08:00:00",
+  "ereignisEnde" : "2024-03-11T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338886.15,
+  "lat" : 684908.9,
+  "radius" : 140,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
 } ]
