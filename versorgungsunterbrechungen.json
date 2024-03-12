@@ -12,4 +12,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 448227,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-12T14:36:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333524.28,
+  "lat" : 684775.33,
+  "radius" : 83,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
