@@ -1,18 +1,4 @@
 [ {
-  "id" : 448188,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-11T08:00:00",
-  "ereignisEnde" : "2024-03-11T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338886.15,
-  "lat" : 684908.9,
-  "radius" : 140,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
-}, {
   "id" : 448189,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-11T10:00:00",
@@ -48,7 +34,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5374241.9,
   "lat" : 717420.19,
   "radius" : 100,
