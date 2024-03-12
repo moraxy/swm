@@ -1,18 +1,4 @@
 [ {
-  "id" : 448190,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-11T12:00:00",
-  "ereignisEnde" : "2024-03-11T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330770.62,
-  "lat" : 689146.8,
-  "radius" : 63,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
   "id" : 448209,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-12T08:00:00",
