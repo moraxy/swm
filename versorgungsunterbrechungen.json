@@ -27,6 +27,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
+  "id" : 448228,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-13T08:30:00",
+  "ereignisEnde" : "2024-03-13T09:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5336193.91,
+  "lat" : 691329.72,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
+}, {
   "id" : 448230,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-12T22:30:00",
