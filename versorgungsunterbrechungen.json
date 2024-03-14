@@ -54,4 +54,18 @@
   "radius" : 110,
   "besonderheit" : null,
   "stadtbezirk" : "3 - Maxvorstadt"
+}, {
+  "id" : 448247,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-14T09:00:00",
+  "ereignisEnde" : "2024-03-14T14:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334477.85,
+  "lat" : 685559.41,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
 } ]
