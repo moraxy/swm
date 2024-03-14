@@ -1,18 +1,4 @@
 [ {
-  "id" : 448245,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-13T18:20:00",
-  "ereignisEnde" : "2024-03-13T21:45:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331832.96,
-  "lat" : 688652.75,
-  "radius" : 61,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 448247,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-14T09:00:00",
