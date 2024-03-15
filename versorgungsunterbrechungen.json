@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
 }, {
-  "id" : 448267,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-15T08:00:00",
-  "ereignisEnde" : "2024-03-15T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5335398.28,
-  "lat" : 679389.47,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
   "id" : 448266,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-15T08:30:00",
@@ -40,4 +26,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 448267,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-15T08:00:00",
+  "ereignisEnde" : "2024-03-15T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5335398.28,
+  "lat" : 679389.47,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 } ]
