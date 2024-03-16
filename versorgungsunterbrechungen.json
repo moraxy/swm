@@ -26,4 +26,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 448283,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-16T09:15:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337163.97,
+  "lat" : 691942.92,
+  "radius" : 80,
+  "besonderheit" : null,
+  "stadtbezirk" : "12 - Schwabing-Freimann"
 } ]
