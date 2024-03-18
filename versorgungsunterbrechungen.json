@@ -1,18 +1,4 @@
 [ {
-  "id" : 448280,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-17T08:30:00",
-  "ereignisEnde" : "2024-03-17T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336139.28,
-  "lat" : 690713.33,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
   "id" : 448293,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-18T12:00:00",
@@ -62,7 +48,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5333479.58,
   "lat" : 690341.61,
   "radius" : 25,
