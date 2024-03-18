@@ -1,32 +1,4 @@
 [ {
-  "id" : 448293,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-18T12:00:00",
-  "ereignisEnde" : "2024-03-18T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5341665.18,
-  "lat" : 687817.95,
-  "radius" : 33,
-  "besonderheit" : null,
-  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
-  "id" : 448294,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-18T12:00:00",
-  "ereignisEnde" : "2024-03-18T15:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5341662.69,
-  "lat" : 687881.49,
-  "radius" : 28,
-  "besonderheit" : null,
-  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
   "id" : 448288,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-18T06:30:00",
@@ -54,6 +26,34 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
+}, {
+  "id" : 448293,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-18T12:00:00",
+  "ereignisEnde" : "2024-03-18T13:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5341665.18,
+  "lat" : 687817.95,
+  "radius" : 33,
+  "besonderheit" : null,
+  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
+}, {
+  "id" : 448294,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-18T12:00:00",
+  "ereignisEnde" : "2024-03-18T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5341662.69,
+  "lat" : 687881.49,
+  "radius" : 28,
+  "besonderheit" : null,
+  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
   "id" : 448292,
   "nameExtern" : "Ausfall im Stromnetz",
