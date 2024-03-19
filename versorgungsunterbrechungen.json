@@ -1,18 +1,4 @@
 [ {
-  "id" : 448288,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-18T06:30:00",
-  "ereignisEnde" : "2024-03-18T08:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333583.28,
-  "lat" : 690355.38,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
-}, {
   "id" : 448291,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-18T09:00:00",
@@ -55,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 448292,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-18T07:00:00",
-  "ereignisEnde" : "2024-03-18T08:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5335481.78,
-  "lat" : 691543.8,
-  "radius" : 39,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
   "id" : 448302,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-19T08:30:00",
@@ -83,6 +55,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "3 - Maxvorstadt"
 }, {
+  "id" : 448303,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-19T10:00:00",
+  "ereignisEnde" : "2024-03-19T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5335497.27,
+  "lat" : 690433.84,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
+}, {
   "id" : 448304,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-19T08:00:00",
@@ -90,7 +76,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5333569.14,
   "lat" : 690446.09,
   "radius" : 64,
