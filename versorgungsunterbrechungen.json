@@ -1,18 +1,4 @@
 [ {
-  "id" : 448291,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-18T09:00:00",
-  "ereignisEnde" : "2024-03-18T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333479.58,
-  "lat" : 690341.61,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
-}, {
   "id" : 448293,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-18T12:00:00",
