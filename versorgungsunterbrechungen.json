@@ -54,4 +54,18 @@
   "radius" : 64,
   "besonderheit" : null,
   "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
+}, {
+  "id" : 448319,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-19T12:25:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5329159.3,
+  "lat" : 690660.38,
+  "radius" : 94,
+  "besonderheit" : null,
+  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
