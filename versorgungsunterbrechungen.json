@@ -1,18 +1,4 @@
 [ {
-  "id" : 448302,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-19T08:30:00",
-  "ereignisEnde" : "2024-03-19T09:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5335434.18,
-  "lat" : 690444.45,
-  "radius" : 29,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
   "id" : 448303,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-19T10:00:00",
@@ -54,6 +40,20 @@
   "radius" : 94,
   "besonderheit" : null,
   "stadtbezirk" : "18 - Untergiesing-Harlaching"
+}, {
+  "id" : 448325,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-20T11:30:00",
+  "ereignisEnde" : "2024-03-20T13:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5335144.13,
+  "lat" : 680040.07,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 }, {
   "id" : 448326,
   "nameExtern" : "Ausfall im Stromnetz",
