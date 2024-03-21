@@ -26,4 +26,18 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
+}, {
+  "id" : 448337,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-21T08:00:00",
+  "ereignisEnde" : "2024-03-21T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5337604.31,
+  "lat" : 698019.26,
+  "radius" : 211,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
