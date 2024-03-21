@@ -40,4 +40,18 @@
   "radius" : 211,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 448338,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-21T08:30:00",
+  "ereignisEnde" : "2024-03-21T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5336273.74,
+  "lat" : 691187.2,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
 } ]
