@@ -1,18 +1,4 @@
 [ {
-  "id" : 448325,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-20T11:30:00",
-  "ereignisEnde" : "2024-03-20T13:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5335144.13,
-  "lat" : 680040.07,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
   "id" : 448338,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-21T08:30:00",
