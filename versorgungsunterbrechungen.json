@@ -1,18 +1,4 @@
 [ {
-  "id" : 448337,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-21T08:00:00",
-  "ereignisEnde" : "2024-03-21T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337604.31,
-  "lat" : 698019.26,
-  "radius" : 211,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
   "id" : 448339,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-21T13:00:00",
