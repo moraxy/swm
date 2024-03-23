@@ -1,18 +1,4 @@
 [ {
-  "id" : 448357,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-22T07:15:00",
-  "ereignisEnde" : "2024-03-22T09:08:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338146.45,
-  "lat" : 684009.92,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
   "id" : 448363,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-22T17:30:00",
