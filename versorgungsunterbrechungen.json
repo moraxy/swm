@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 448365,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-23T09:22:00",
-  "ereignisEnde" : "2024-03-23T19:38:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331327.5,
-  "lat" : 693336.51,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "17 - Obergiesing-Fasangarten"
-}, {
   "id" : 448367,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-24T10:00:00",
