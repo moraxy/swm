@@ -26,4 +26,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "17 - Obergiesing-Fasangarten"
+}, {
+  "id" : 448366,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-24T08:00:00",
+  "ereignisEnde" : "2024-03-24T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338208.33,
+  "lat" : 686084.17,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "10 - Moosach"
 } ]
