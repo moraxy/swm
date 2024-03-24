@@ -40,4 +40,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
+}, {
+  "id" : 448368,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-24T21:25:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5329544.95,
+  "lat" : 686874.26,
+  "radius" : 67,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 } ]
