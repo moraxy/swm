@@ -13,34 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 448367,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-24T10:00:00",
-  "ereignisEnde" : "2024-03-24T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333672.69,
-  "lat" : 690385.71,
-  "radius" : 169,
-  "besonderheit" : null,
-  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
-}, {
-  "id" : 448366,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-24T08:00:00",
-  "ereignisEnde" : "2024-03-24T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338208.33,
-  "lat" : 686084.17,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "10 - Moosach"
-}, {
   "id" : 448368,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-24T21:25:00",
