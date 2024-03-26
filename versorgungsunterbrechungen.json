@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 448387,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-26T11:30:00",
-  "ereignisEnde" : "2024-03-26T14:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5337775.48,
-  "lat" : 686635.28,
-  "radius" : 196,
-  "besonderheit" : null,
-  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
-}, {
   "id" : 448368,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-24T21:25:00",
@@ -82,6 +68,20 @@
   "radius" : 87,
   "besonderheit" : null,
   "stadtbezirk" : "4 - Schwabing-West"
+}, {
+  "id" : 448387,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-26T11:30:00",
+  "ereignisEnde" : "2024-03-26T14:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337775.48,
+  "lat" : 686635.28,
+  "radius" : 196,
+  "besonderheit" : null,
+  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
 }, {
   "id" : 448391,
   "nameExtern" : "Ausfall im Stromnetz",
