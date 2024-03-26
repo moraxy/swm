@@ -13,34 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 448388,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-26T09:00:00",
-  "ereignisEnde" : "2024-03-26T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5337465.64,
-  "lat" : 690185.66,
-  "radius" : 87,
-  "besonderheit" : null,
-  "stadtbezirk" : "4 - Schwabing-West"
-}, {
-  "id" : 448389,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-26T09:00:00",
-  "ereignisEnde" : "2024-03-26T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5333907.75,
-  "lat" : 688430.1,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 448368,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-24T21:25:00",
@@ -68,6 +40,34 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
+}, {
+  "id" : 448388,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-26T09:00:00",
+  "ereignisEnde" : "2024-03-26T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337465.64,
+  "lat" : 690185.66,
+  "radius" : 87,
+  "besonderheit" : null,
+  "stadtbezirk" : "4 - Schwabing-West"
+}, {
+  "id" : 448389,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-26T09:00:00",
+  "ereignisEnde" : "2024-03-26T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333907.75,
+  "lat" : 688430.1,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 }, {
   "id" : 448391,
   "nameExtern" : "Ausfall im Stromnetz",
