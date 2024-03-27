@@ -1,18 +1,4 @@
 [ {
-  "id" : 448387,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-26T11:30:00",
-  "ereignisEnde" : "2024-03-26T14:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337775.48,
-  "lat" : 686635.28,
-  "radius" : 196,
-  "besonderheit" : null,
-  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
-}, {
   "id" : 448411,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-27T08:00:00",
@@ -26,4 +12,18 @@
   "radius" : 59,
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
+}, {
+  "id" : 448422,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-27T14:15:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5342967.27,
+  "lat" : 691101.12,
+  "radius" : 155,
+  "besonderheit" : null,
+  "stadtbezirk" : "11 - Milbertshofen-Am Hart"
 } ]
