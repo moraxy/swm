@@ -26,4 +26,18 @@
   "radius" : 155,
   "besonderheit" : null,
   "stadtbezirk" : "11 - Milbertshofen-Am Hart"
+}, {
+  "id" : 448430,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-28T08:00:00",
+  "ereignisEnde" : "2024-03-28T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338542.9,
+  "lat" : 701948.76,
+  "radius" : 36,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
