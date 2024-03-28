@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 448427,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-28T08:30:00",
-  "ereignisEnde" : "2024-03-28T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5336405.98,
-  "lat" : 690595.96,
-  "radius" : 87,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
   "id" : 448428,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-28T09:00:00",
@@ -54,6 +40,20 @@
   "radius" : 97,
   "besonderheit" : null,
   "stadtbezirk" : "17 - Obergiesing-Fasangarten"
+}, {
+  "id" : 448427,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-28T08:30:00",
+  "ereignisEnde" : "2024-03-28T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5336405.98,
+  "lat" : 690595.96,
+  "radius" : 87,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
 }, {
   "id" : 448429,
   "nameExtern" : "Ausfall im Stromnetz",
