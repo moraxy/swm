@@ -1,18 +1,4 @@
 [ {
-  "id" : 448411,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-27T08:00:00",
-  "ereignisEnde" : "2024-03-27T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338346.37,
-  "lat" : 688346.16,
-  "radius" : 59,
-  "besonderheit" : null,
-  "stadtbezirk" : "10 - Moosach"
-}, {
   "id" : 448422,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-03-27T14:15:00",
@@ -76,7 +62,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5330508.98,
   "lat" : 694204.03,
   "radius" : 52,
