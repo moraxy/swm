@@ -48,26 +48,12 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5331330.73,
   "lat" : 692518.81,
   "radius" : 97,
   "besonderheit" : null,
   "stadtbezirk" : "17 - Obergiesing-Fasangarten"
-}, {
-  "id" : 448430,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-28T08:00:00",
-  "ereignisEnde" : "2024-03-28T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5338542.9,
-  "lat" : 701948.76,
-  "radius" : 36,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
 }, {
   "id" : 448429,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -82,4 +68,18 @@
   "radius" : 52,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 448430,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-03-28T08:00:00",
+  "ereignisEnde" : "2024-03-28T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5338542.9,
+  "lat" : 701948.76,
+  "radius" : 36,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
