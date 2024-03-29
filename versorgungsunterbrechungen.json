@@ -1,15 +1,1 @@
-[ {
-  "id" : 448431,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-03-28T13:00:00",
-  "ereignisEnde" : "2024-03-28T16:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5339545.72,
-  "lat" : 701585.76,
-  "radius" : 33,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-} ]
+[ ]
