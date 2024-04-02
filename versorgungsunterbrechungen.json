@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 }, {
+  "id" : 448476,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-02T10:00:00",
+  "ereignisEnde" : "2024-04-02T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5330576.29,
+  "lat" : 694188.01,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
   "id" : 448477,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-02T09:00:00",
