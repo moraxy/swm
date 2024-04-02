@@ -1,18 +1,4 @@
 [ {
-  "id" : 448475,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-02T09:00:00",
-  "ereignisEnde" : "2024-04-02T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5335063.08,
-  "lat" : 678990.41,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
   "id" : 448476,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-02T10:00:00",
@@ -27,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
+  "id" : 448475,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-02T09:00:00",
+  "ereignisEnde" : "2024-04-02T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5335063.08,
+  "lat" : 678990.41,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
+}, {
   "id" : 448477,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-02T09:00:00",
@@ -34,7 +34,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5336363.88,
   "lat" : 690578.92,
   "radius" : 143,
