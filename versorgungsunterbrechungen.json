@@ -1,1 +1,29 @@
-[ ]
+[ {
+  "id" : 448475,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-02T09:00:00",
+  "ereignisEnde" : "2024-04-02T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5335063.08,
+  "lat" : 678990.41,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
+}, {
+  "id" : 448477,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-02T09:00:00",
+  "ereignisEnde" : "2024-04-02T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5336363.88,
+  "lat" : 690578.92,
+  "radius" : 143,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
+} ]
