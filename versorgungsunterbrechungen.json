@@ -1,32 +1,4 @@
 [ {
-  "id" : 448490,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T08:00:00",
-  "ereignisEnde" : "2024-04-03T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5328876.88,
-  "lat" : 697924.39,
-  "radius" : 36,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
-  "id" : 448489,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T08:30:00",
-  "ereignisEnde" : "2024-04-03T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5336519.25,
-  "lat" : 702671.6,
-  "radius" : 33,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448477,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-02T09:00:00",
@@ -55,6 +27,34 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
+  "id" : 448490,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-03T08:00:00",
+  "ereignisEnde" : "2024-04-03T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5328876.88,
+  "lat" : 697924.39,
+  "radius" : 36,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 448489,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-03T08:30:00",
+  "ereignisEnde" : "2024-04-03T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5336519.25,
+  "lat" : 702671.6,
+  "radius" : 33,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 448488,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-03T09:00:00",
@@ -68,4 +68,18 @@
   "radius" : 30,
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
+}, {
+  "id" : 448495,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-03T11:15:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333697.53,
+  "lat" : 693061.06,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
 } ]
