@@ -55,6 +55,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "3 - Maxvorstadt"
 }, {
+  "id" : 448488,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-03T09:00:00",
+  "ereignisEnde" : "2024-04-03T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334663.52,
+  "lat" : 692405.91,
+  "radius" : 30,
+  "besonderheit" : null,
+  "stadtbezirk" : "1 - Altstadt-Lehel"
+}, {
   "id" : 448489,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-03T08:30:00",
