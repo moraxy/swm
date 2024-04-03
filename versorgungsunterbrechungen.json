@@ -1,4 +1,32 @@
 [ {
+  "id" : 448495,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-03T11:15:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333697.53,
+  "lat" : 693061.06,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
+}, {
+  "id" : 448487,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-03T13:00:00",
+  "ereignisEnde" : "2024-04-03T16:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5339704.94,
+  "lat" : 701449.47,
+  "radius" : 39,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 448490,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-03T08:00:00",
@@ -40,32 +68,4 @@
   "radius" : 30,
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
-}, {
-  "id" : 448495,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T11:15:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5333697.53,
-  "lat" : 693061.06,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "5 - Au-Haidhausen"
-}, {
-  "id" : 448487,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T13:00:00",
-  "ereignisEnde" : "2024-04-03T16:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5339704.94,
-  "lat" : 701449.47,
-  "radius" : 39,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
 } ]
