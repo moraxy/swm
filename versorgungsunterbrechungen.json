@@ -1,32 +1,4 @@
 [ {
-  "id" : 448477,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-02T09:00:00",
-  "ereignisEnde" : "2024-04-02T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336363.88,
-  "lat" : 690578.92,
-  "radius" : 143,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
-  "id" : 448487,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T13:00:00",
-  "ereignisEnde" : "2024-04-03T16:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5339704.94,
-  "lat" : 701449.47,
-  "radius" : 39,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448490,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-03T08:00:00",
@@ -52,6 +24,34 @@
   "lng" : 5336519.25,
   "lat" : 702671.6,
   "radius" : 33,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 448477,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-02T09:00:00",
+  "ereignisEnde" : "2024-04-02T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5336363.88,
+  "lat" : 690578.92,
+  "radius" : 143,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
+}, {
+  "id" : 448487,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-03T13:00:00",
+  "ereignisEnde" : "2024-04-03T16:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5339704.94,
+  "lat" : 701449.47,
+  "radius" : 39,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
