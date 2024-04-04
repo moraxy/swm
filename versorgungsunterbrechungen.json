@@ -1,18 +1,4 @@
 [ {
-  "id" : 448487,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T13:00:00",
-  "ereignisEnde" : "2024-04-03T16:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5339704.94,
-  "lat" : 701449.47,
-  "radius" : 39,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448495,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-03T11:15:00",
