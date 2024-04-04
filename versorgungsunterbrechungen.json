@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
 }, {
-  "id" : 448488,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T09:00:00",
-  "ereignisEnde" : "2024-04-03T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334663.52,
-  "lat" : 692405.91,
-  "radius" : 30,
-  "besonderheit" : null,
-  "stadtbezirk" : "1 - Altstadt-Lehel"
-}, {
   "id" : 448506,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-03T14:10:00",
@@ -97,20 +83,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
 }, {
-  "id" : 448512,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-04T10:00:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5333621.82,
-  "lat" : 684587.03,
-  "radius" : 176,
-  "besonderheit" : null,
-  "stadtbezirk" : "20 - Hadern"
-}, {
   "id" : 448513,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-04T09:00:00",
@@ -124,4 +96,18 @@
   "radius" : 123,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
+}, {
+  "id" : 448512,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-04T10:00:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333606.08,
+  "lat" : 684578.44,
+  "radius" : 129,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
