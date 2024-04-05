@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
 }, {
-  "id" : 448513,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-04T09:00:00",
-  "ereignisEnde" : "2024-04-04T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5332603.42,
-  "lat" : 697260.47,
-  "radius" : 123,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
-}, {
   "id" : 448512,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-04T10:00:00",
