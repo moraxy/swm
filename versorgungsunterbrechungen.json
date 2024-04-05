@@ -83,20 +83,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
 }, {
-  "id" : 448517,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-05T09:00:00",
-  "ereignisEnde" : "2024-04-05T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5334708.69,
-  "lat" : 692426.73,
-  "radius" : 44,
-  "besonderheit" : null,
-  "stadtbezirk" : "1 - Altstadt-Lehel"
-}, {
   "id" : 448518,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-05T08:00:00",
@@ -110,4 +96,18 @@
   "radius" : 99,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
+}, {
+  "id" : 448517,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-05T09:00:00",
+  "ereignisEnde" : "2024-04-05T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334708.69,
+  "lat" : 692426.73,
+  "radius" : 44,
+  "besonderheit" : null,
+  "stadtbezirk" : "1 - Altstadt-Lehel"
 } ]
