@@ -1,18 +1,4 @@
 [ {
-  "id" : 448508,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-04T10:00:00",
-  "ereignisEnde" : "2024-04-04T11:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334604.51,
-  "lat" : 692414.3,
-  "radius" : 30,
-  "besonderheit" : null,
-  "stadtbezirk" : "1 - Altstadt-Lehel"
-}, {
   "id" : 448512,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-04T10:00:00",
@@ -24,20 +10,6 @@
   "lng" : 5333606.08,
   "lat" : 684578.44,
   "radius" : 129,
-  "besonderheit" : null,
-  "stadtbezirk" : "20 - Hadern"
-}, {
-  "id" : 448518,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-05T08:00:00",
-  "ereignisEnde" : "2024-04-05T11:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5332450.45,
-  "lat" : 683697.42,
-  "radius" : 99,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
@@ -68,4 +40,18 @@
   "radius" : 44,
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
+}, {
+  "id" : 448518,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-05T08:00:00",
+  "ereignisEnde" : "2024-04-05T11:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5332450.45,
+  "lat" : 683697.42,
+  "radius" : 99,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
