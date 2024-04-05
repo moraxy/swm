@@ -68,4 +68,18 @@
   "radius" : 129,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
+}, {
+  "id" : 448518,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-05T08:00:00",
+  "ereignisEnde" : "2024-04-05T11:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5332450.45,
+  "lat" : 683697.42,
+  "radius" : 99,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
 } ]
