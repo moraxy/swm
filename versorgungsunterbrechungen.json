@@ -69,6 +69,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
+  "id" : 448516,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-05T10:00:00",
+  "ereignisEnde" : "2024-04-05T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5332093.96,
+  "lat" : 687938.02,
+  "radius" : 61,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
   "id" : 448517,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-05T09:00:00",
@@ -90,7 +104,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5332450.45,
   "lat" : 683697.42,
   "radius" : 99,
