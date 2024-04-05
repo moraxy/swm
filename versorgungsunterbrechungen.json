@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
 }, {
-  "id" : 448506,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-03T14:10:00",
-  "ereignisEnde" : "2024-04-04T03:07:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338275.3,
-  "lat" : 688353.72,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "10 - Moosach"
-}, {
   "id" : 448509,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-04T08:00:00",
