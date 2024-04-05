@@ -1,18 +1,4 @@
 [ {
-  "id" : 448512,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-04T10:00:00",
-  "ereignisEnde" : "2024-04-04T13:47:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333606.08,
-  "lat" : 684578.44,
-  "radius" : 129,
-  "besonderheit" : null,
-  "stadtbezirk" : "20 - Hadern"
-}, {
   "id" : 448517,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-05T09:00:00",
