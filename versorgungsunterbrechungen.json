@@ -1,18 +1,4 @@
 [ {
-  "id" : 448507,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-04T08:00:00",
-  "ereignisEnde" : "2024-04-04T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336233.95,
-  "lat" : 681064.04,
-  "radius" : 50,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
   "id" : 448508,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-04T10:00:00",
@@ -55,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
-  "id" : 448516,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-05T10:00:00",
-  "ereignisEnde" : "2024-04-05T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5332093.96,
-  "lat" : 687938.02,
-  "radius" : 61,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 448518,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-05T08:00:00",
@@ -96,4 +68,18 @@
   "radius" : 44,
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
+}, {
+  "id" : 448516,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-05T10:00:00",
+  "ereignisEnde" : "2024-04-05T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5332093.96,
+  "lat" : 687938.02,
+  "radius" : 61,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
