@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "1 - Altstadt-Lehel"
 }, {
-  "id" : 448509,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-04T08:00:00",
-  "ereignisEnde" : "2024-04-04T09:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334639.36,
-  "lat" : 692434.24,
-  "radius" : 28,
-  "besonderheit" : null,
-  "stadtbezirk" : "1 - Altstadt-Lehel"
-}, {
   "id" : 448513,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-04T09:00:00",
