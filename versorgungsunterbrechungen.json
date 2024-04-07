@@ -12,4 +12,18 @@
   "radius" : 39,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
+}, {
+  "id" : 448525,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-07T18:32:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334843.07,
+  "lat" : 681687.87,
+  "radius" : 114,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
 } ]
