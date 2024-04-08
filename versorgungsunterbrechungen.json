@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "8 - Schwanthalerhöhe"
 }, {
-  "id" : 448529,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T08:00:00",
-  "ereignisEnde" : "2024-04-08T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5337196.54,
-  "lat" : 691920.24,
-  "radius" : 52,
-  "besonderheit" : null,
-  "stadtbezirk" : "12 - Schwabing-Freimann"
-}, {
   "id" : 448525,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-07T18:32:00",
@@ -54,20 +40,6 @@
   "radius" : 114,
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
-  "id" : 448527,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T07:00:00",
-  "ereignisEnde" : "2024-04-08T08:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5338350.45,
-  "lat" : 688301.36,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "10 - Moosach"
 }, {
   "id" : 448528,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -96,4 +68,32 @@
   "radius" : 136,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
+}, {
+  "id" : 448529,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T08:00:00",
+  "ereignisEnde" : "2024-04-08T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337196.54,
+  "lat" : 691920.24,
+  "radius" : 52,
+  "besonderheit" : null,
+  "stadtbezirk" : "12 - Schwabing-Freimann"
+}, {
+  "id" : 448527,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T07:00:00",
+  "ereignisEnde" : "2024-04-08T08:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5338350.45,
+  "lat" : 688301.36,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "10 - Moosach"
 } ]
