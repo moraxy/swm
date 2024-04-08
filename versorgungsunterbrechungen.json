@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
 }, {
-  "id" : 448528,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T07:00:00",
-  "ereignisEnde" : "2024-04-08T09:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5338430.33,
-  "lat" : 688081.35,
-  "radius" : 132,
-  "besonderheit" : null,
-  "stadtbezirk" : "10 - Moosach"
-}, {
   "id" : 448531,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-08T07:30:00",
@@ -96,4 +82,18 @@
   "radius" : 74,
   "besonderheit" : null,
   "stadtbezirk" : "8 - Schwanthalerhöhe"
+}, {
+  "id" : 448528,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T07:00:00",
+  "ereignisEnde" : "2024-04-08T09:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5338430.33,
+  "lat" : 688081.35,
+  "radius" : 132,
+  "besonderheit" : null,
+  "stadtbezirk" : "10 - Moosach"
 } ]
