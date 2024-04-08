@@ -82,4 +82,18 @@
   "radius" : 132,
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
+}, {
+  "id" : 448531,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T07:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5332740.12,
+  "lat" : 700905.54,
+  "radius" : 136,
+  "besonderheit" : null,
+  "stadtbezirk" : "15 - Trudering-Riem"
 } ]
