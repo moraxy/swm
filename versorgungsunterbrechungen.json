@@ -27,34 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
 }, {
-  "id" : 448531,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T07:30:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5332740.12,
-  "lat" : 700905.54,
-  "radius" : 136,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
-}, {
-  "id" : 448529,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T08:00:00",
-  "ereignisEnde" : "2024-04-08T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5337196.54,
-  "lat" : 691920.24,
-  "radius" : 52,
-  "besonderheit" : null,
-  "stadtbezirk" : "12 - Schwabing-Freimann"
-}, {
   "id" : 448527,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-08T07:00:00",
@@ -96,4 +68,46 @@
   "radius" : 132,
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
+}, {
+  "id" : 448529,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T08:00:00",
+  "ereignisEnde" : "2024-04-08T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5337196.54,
+  "lat" : 691920.24,
+  "radius" : 52,
+  "besonderheit" : null,
+  "stadtbezirk" : "12 - Schwabing-Freimann"
+}, {
+  "id" : 448544,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T10:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334560.64,
+  "lat" : 685264.92,
+  "radius" : 185,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 448531,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T07:30:00",
+  "ereignisEnde" : "2024-04-08T08:45:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5332740.12,
+  "lat" : 700905.54,
+  "radius" : 136,
+  "besonderheit" : null,
+  "stadtbezirk" : "15 - Trudering-Riem"
 } ]
