@@ -96,4 +96,18 @@
   "radius" : 258,
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 448547,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T11:15:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5339457.87,
+  "lat" : 704892.09,
+  "radius" : 1960,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
