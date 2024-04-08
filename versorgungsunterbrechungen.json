@@ -69,20 +69,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
-  "id" : 448544,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T10:30:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5334560.64,
-  "lat" : 685264.92,
-  "radius" : 258,
-  "besonderheit" : null,
-  "stadtbezirk" : "25 - Laim"
-}, {
   "id" : 448526,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-08T08:30:00",
@@ -96,4 +82,18 @@
   "radius" : 74,
   "besonderheit" : null,
   "stadtbezirk" : "8 - Schwanthalerhöhe"
+}, {
+  "id" : 448544,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T10:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334560.64,
+  "lat" : 685264.92,
+  "radius" : 258,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
 } ]
