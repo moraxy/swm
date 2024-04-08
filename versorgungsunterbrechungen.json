@@ -13,6 +13,34 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
+  "id" : 448527,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T07:00:00",
+  "ereignisEnde" : "2024-04-08T08:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338350.45,
+  "lat" : 688301.36,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "10 - Moosach"
+}, {
+  "id" : 448528,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T07:00:00",
+  "ereignisEnde" : "2024-04-08T09:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338430.33,
+  "lat" : 688081.35,
+  "radius" : 132,
+  "besonderheit" : null,
+  "stadtbezirk" : "10 - Moosach"
+}, {
   "id" : 448525,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-07T18:32:00",
