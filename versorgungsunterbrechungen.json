@@ -83,20 +83,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "8 - Schwanthalerhöhe"
 }, {
-  "id" : 448547,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T11:15:00",
-  "ereignisEnde" : "2024-04-08T13:00:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5339105.14,
-  "lat" : 704971.11,
-  "radius" : 1960,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448544,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-08T10:30:00",
@@ -110,4 +96,18 @@
   "radius" : 79,
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 448547,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T11:15:00",
+  "ereignisEnde" : "2024-04-08T13:00:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5339105.14,
+  "lat" : 704971.11,
+  "radius" : 1960,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
