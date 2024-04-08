@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
+  "id" : 448526,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T08:30:00",
+  "ereignisEnde" : "2024-04-08T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334797.47,
+  "lat" : 689329.23,
+  "radius" : 74,
+  "besonderheit" : null,
+  "stadtbezirk" : "8 - Schwanthalerhöhe"
+}, {
   "id" : 448527,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-08T07:00:00",
