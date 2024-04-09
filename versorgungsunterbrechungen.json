@@ -1,18 +1,4 @@
 [ {
-  "id" : 448526,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T08:30:00",
-  "ereignisEnde" : "2024-04-08T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334797.47,
-  "lat" : 689329.23,
-  "radius" : 74,
-  "besonderheit" : null,
-  "stadtbezirk" : "8 - Schwanthalerhöhe"
-}, {
   "id" : 448544,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-08T10:30:00",
@@ -41,6 +27,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
+  "id" : 448561,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-09T13:00:00",
+  "ereignisEnde" : "2024-04-09T16:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338929.37,
+  "lat" : 702535.51,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 448560,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-09T11:00:00",
@@ -48,7 +48,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5333814.17,
   "lat" : 688597.34,
   "radius" : 100,
