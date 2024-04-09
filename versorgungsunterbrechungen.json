@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
 }, {
-  "id" : 448561,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-09T13:00:00",
-  "ereignisEnde" : "2024-04-09T16:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5338929.37,
-  "lat" : 702535.51,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448580,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-09T15:00:00",
@@ -54,4 +40,18 @@
   "radius" : 231,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
+}, {
+  "id" : 448561,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-09T13:00:00",
+  "ereignisEnde" : "2024-04-09T16:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5338929.37,
+  "lat" : 702535.51,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
