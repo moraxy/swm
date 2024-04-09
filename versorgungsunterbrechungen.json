@@ -1,4 +1,18 @@
 [ {
+  "id" : 448544,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-08T10:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334560.64,
+  "lat" : 685264.92,
+  "radius" : 79,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
+}, {
   "id" : 448560,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-09T11:00:00",
@@ -40,18 +54,4 @@
   "radius" : 231,
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
-}, {
-  "id" : 448544,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T10:30:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5334560.64,
-  "lat" : 685264.92,
-  "radius" : 79,
-  "besonderheit" : null,
-  "stadtbezirk" : "25 - Laim"
 } ]
