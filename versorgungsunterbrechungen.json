@@ -13,34 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
 }, {
-  "id" : 448547,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T11:15:00",
-  "ereignisEnde" : "2024-04-08T13:00:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5339105.14,
-  "lat" : 704971.11,
-  "radius" : 1960,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 448561,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-09T13:00:00",
-  "ereignisEnde" : "2024-04-09T16:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5338929.37,
-  "lat" : 702535.51,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448560,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-09T11:00:00",
@@ -54,4 +26,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 448561,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-09T13:00:00",
+  "ereignisEnde" : "2024-04-09T16:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5338929.37,
+  "lat" : 702535.51,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
