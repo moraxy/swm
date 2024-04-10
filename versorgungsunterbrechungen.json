@@ -68,4 +68,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448591,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-10T10:00:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5333955.89,
+  "lat" : 686525.46,
+  "radius" : 43,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
 } ]
