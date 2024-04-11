@@ -1,18 +1,4 @@
 [ {
-  "id" : 448598,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-11T13:00:00",
-  "ereignisEnde" : "2024-04-11T15:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5334125.23,
-  "lat" : 698876.97,
-  "radius" : 106,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
-}, {
   "id" : 448594,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-11T08:00:00",
@@ -26,6 +12,20 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 448598,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-11T13:00:00",
+  "ereignisEnde" : "2024-04-11T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334125.23,
+  "lat" : 698876.97,
+  "radius" : 106,
+  "besonderheit" : null,
+  "stadtbezirk" : "15 - Trudering-Riem"
 }, {
   "id" : 448544,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -69,20 +69,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 448597,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-11T13:00:00",
-  "ereignisEnde" : "2024-04-11T14:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5330050.28,
-  "lat" : 691942.99,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "18 - Untergiesing-Harlaching"
-}, {
   "id" : 448595,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-11T09:00:00",
@@ -110,4 +96,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 448597,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-11T13:00:00",
+  "ereignisEnde" : "2024-04-11T14:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330050.28,
+  "lat" : 691942.99,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
