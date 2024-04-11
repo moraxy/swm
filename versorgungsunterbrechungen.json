@@ -83,20 +83,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "18 - Untergiesing-Harlaching"
 }, {
-  "id" : 448596,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-11T09:00:00",
-  "ereignisEnde" : "2024-04-11T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5336233.68,
-  "lat" : 694431.39,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
   "id" : 448595,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-11T09:00:00",
@@ -110,4 +96,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
+  "id" : 448596,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-11T09:00:00",
+  "ereignisEnde" : "2024-04-11T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5336233.68,
+  "lat" : 694431.39,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
