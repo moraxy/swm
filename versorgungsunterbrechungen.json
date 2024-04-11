@@ -68,4 +68,32 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 448595,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-11T09:00:00",
+  "ereignisEnde" : "2024-04-11T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5341400.21,
+  "lat" : 683400.97,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
+  "id" : 448596,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-11T09:00:00",
+  "ereignisEnde" : "2024-04-11T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5336233.68,
+  "lat" : 694431.39,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
