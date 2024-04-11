@@ -55,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
 }, {
-  "id" : 448582,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-10T13:00:00",
-  "ereignisEnde" : "2024-04-10T14:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5342433.24,
-  "lat" : 688615.58,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
   "id" : 448595,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-11T09:00:00",
@@ -104,7 +90,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5330050.28,
   "lat" : 691942.99,
   "radius" : 100,
