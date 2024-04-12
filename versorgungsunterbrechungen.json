@@ -27,31 +27,17 @@
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
-  "id" : 448544,
+  "id" : 448635,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-08T10:30:00",
+  "ereignisBeginn" : "2024-04-12T16:58:00",
   "ereignisEnde" : null,
   "unterbrechungsgrund" : "TECHDEF",
   "typ" : "UNGEPLANT",
   "sparte" : "STROM",
   "status" : "IN_BEARBEITUNG",
-  "lng" : 5334560.64,
-  "lat" : 685264.92,
-  "radius" : 79,
+  "lng" : 5332544.64,
+  "lat" : 688913.82,
+  "radius" : 25,
   "besonderheit" : null,
-  "stadtbezirk" : "25 - Laim"
-}, {
-  "id" : 448591,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-10T10:00:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5333955.89,
-  "lat" : 686525.46,
-  "radius" : 43,
-  "besonderheit" : null,
-  "stadtbezirk" : "25 - Laim"
+  "stadtbezirk" : "6 - Sendling"
 } ]
