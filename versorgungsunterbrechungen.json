@@ -49,9 +49,9 @@
   "typ" : "UNGEPLANT",
   "sparte" : "STROM",
   "status" : "IN_BEARBEITUNG",
-  "lng" : 5340024.74,
-  "lat" : 704871.58,
-  "radius" : 3505,
+  "lng" : 5338246.7,
+  "lat" : 703416.56,
+  "radius" : 750,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 } ]
