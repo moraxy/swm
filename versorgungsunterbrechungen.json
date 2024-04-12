@@ -1,18 +1,4 @@
 [ {
-  "id" : 448598,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-11T13:00:00",
-  "ereignisEnde" : "2024-04-11T15:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334125.23,
-  "lat" : 698876.97,
-  "radius" : 106,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
-}, {
   "id" : 448618,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-12T09:00:00",
