@@ -68,18 +68,4 @@
   "radius" : 43,
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
-}, {
-  "id" : 448597,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-11T13:00:00",
-  "ereignisEnde" : "2024-04-11T14:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330050.28,
-  "lat" : 691942.99,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
