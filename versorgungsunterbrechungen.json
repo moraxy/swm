@@ -27,6 +27,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
+  "id" : 448619,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-12T08:00:00",
+  "ereignisEnde" : "2024-04-12T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5331307.3,
+  "lat" : 685279.74,
+  "radius" : 113,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
+}, {
   "id" : 448544,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-08T10:30:00",
