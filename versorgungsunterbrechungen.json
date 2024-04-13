@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "6 - Sendling"
 }, {
-  "id" : 448636,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-12T21:15:00",
-  "ereignisEnde" : "2024-04-12T23:00:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338246.7,
-  "lat" : 703416.56,
-  "radius" : 750,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448641,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-13T12:15:00",
