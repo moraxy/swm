@@ -1,15 +1,1 @@
-[ {
-  "id" : 448641,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-13T12:15:00",
-  "ereignisEnde" : "2024-04-13T22:45:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334708.44,
-  "lat" : 692295.25,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "1 - Altstadt-Lehel"
-} ]
+[ ]
