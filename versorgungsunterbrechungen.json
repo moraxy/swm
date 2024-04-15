@@ -48,7 +48,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5335460.66,
   "lat" : 679600.76,
   "radius" : 55,
