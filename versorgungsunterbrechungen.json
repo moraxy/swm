@@ -55,34 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 }, {
-  "id" : 448665,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-16T08:00:00",
-  "ereignisEnde" : "2024-04-16T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5341710.0,
-  "lat" : 689188.38,
-  "radius" : 62,
-  "besonderheit" : null,
-  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
-  "id" : 448666,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-16T08:00:00",
-  "ereignisEnde" : "2024-04-16T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5336362.8,
-  "lat" : 702653.26,
-  "radius" : 83,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448643,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-15T12:00:00",
@@ -96,6 +68,34 @@
   "radius" : 55,
   "besonderheit" : null,
   "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
+}, {
+  "id" : 448665,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-16T08:00:00",
+  "ereignisEnde" : "2024-04-16T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5341710.0,
+  "lat" : 689188.38,
+  "radius" : 62,
+  "besonderheit" : null,
+  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
+}, {
+  "id" : 448666,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-16T08:00:00",
+  "ereignisEnde" : "2024-04-16T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5336362.8,
+  "lat" : 702653.26,
+  "radius" : 83,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 }, {
   "id" : 448644,
   "nameExtern" : "Ausfall im Stromnetz",
