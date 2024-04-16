@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 }, {
-  "id" : 448678,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-16T10:00:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5334116.8,
-  "lat" : 686729.69,
-  "radius" : 34,
-  "besonderheit" : null,
-  "stadtbezirk" : "25 - Laim"
-}, {
   "id" : 448665,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-16T08:00:00",
@@ -54,4 +40,18 @@
   "radius" : 62,
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
+}, {
+  "id" : 448678,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-16T10:00:00",
+  "ereignisEnde" : "2024-04-16T13:25:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5334116.8,
+  "lat" : 686729.69,
+  "radius" : 34,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
 } ]
