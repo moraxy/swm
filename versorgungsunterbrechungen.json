@@ -97,20 +97,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 }, {
-  "id" : 448644,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-15T09:00:00",
-  "ereignisEnde" : "2024-04-15T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5335525.18,
-  "lat" : 679547.07,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-}, {
   "id" : 448678,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-16T10:00:00",
