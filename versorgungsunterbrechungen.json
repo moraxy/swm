@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
+  "id" : 448688,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-17T08:00:00",
+  "ereignisEnde" : "2024-04-17T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5342728.81,
+  "lat" : 690348.06,
+  "radius" : 163,
+  "besonderheit" : null,
+  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
+}, {
   "id" : 448665,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-16T08:00:00",
