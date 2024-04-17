@@ -1,18 +1,4 @@
 [ {
-  "id" : 448678,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-16T10:00:00",
-  "ereignisEnde" : "2024-04-16T13:25:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334116.8,
-  "lat" : 686729.69,
-  "radius" : 34,
-  "besonderheit" : null,
-  "stadtbezirk" : "25 - Laim"
-}, {
   "id" : 448689,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-17T12:00:00",
