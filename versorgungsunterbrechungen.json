@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 448689,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-17T12:00:00",
-  "ereignisEnde" : "2024-04-17T15:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333732.93,
-  "lat" : 690041.02,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
-}, {
   "id" : 448705,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-17T13:45:00",
@@ -40,4 +26,18 @@
   "radius" : 43,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 448689,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-17T12:00:00",
+  "ereignisEnde" : "2024-04-17T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5333732.93,
+  "lat" : 690041.02,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
 } ]
