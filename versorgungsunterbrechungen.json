@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
+  "id" : 448689,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-17T12:00:00",
+  "ereignisEnde" : "2024-04-17T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5333732.93,
+  "lat" : 690041.02,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "2 - Ludwigsvorstadt-Isarvorstadt"
+}, {
   "id" : 448665,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-16T08:00:00",
