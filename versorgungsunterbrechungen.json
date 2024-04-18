@@ -1,18 +1,4 @@
 [ {
-  "id" : 448705,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-17T13:45:00",
-  "ereignisEnde" : "2024-04-17T15:20:00",
-  "unterbrechungsgrund" : "FREMDBESCH",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337156.01,
-  "lat" : 696433.51,
-  "radius" : 43,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
   "id" : 448713,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-18T07:51:00",
