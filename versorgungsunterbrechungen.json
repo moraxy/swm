@@ -12,4 +12,18 @@
   "radius" : 71,
   "besonderheit" : null,
   "stadtbezirk" : "18 - Untergiesing-Harlaching"
+}, {
+  "id" : 448719,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-18T21:04:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5336889.1,
+  "lat" : 690555.26,
+  "radius" : 46,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
 } ]
