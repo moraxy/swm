@@ -40,4 +40,18 @@
   "radius" : 43,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 448713,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-18T07:51:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330573.48,
+  "lat" : 691345.04,
+  "radius" : 71,
+  "besonderheit" : null,
+  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
