@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "18 - Untergiesing-Harlaching"
 }, {
+  "id" : 448718,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-19T08:00:00",
+  "ereignisEnde" : "2024-04-19T14:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5339587.53,
+  "lat" : 684295.73,
+  "radius" : 53,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
   "id" : 448719,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-18T21:04:00",
