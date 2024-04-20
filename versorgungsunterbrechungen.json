@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
 }, {
-  "id" : 448734,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-19T13:00:00",
-  "ereignisEnde" : "2024-04-19T13:40:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334591.36,
-  "lat" : 683486.84,
-  "radius" : 43,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
   "id" : 448736,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-19T14:50:00",
