@@ -1,15 +1,1 @@
-[ {
-  "id" : 448736,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-19T14:50:00",
-  "ereignisEnde" : "2024-04-20T01:05:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334835.48,
-  "lat" : 680394.97,
-  "radius" : 36,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
-} ]
+[ ]
