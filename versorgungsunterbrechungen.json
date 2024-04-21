@@ -12,4 +12,18 @@
   "radius" : 38,
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
+}, {
+  "id" : 448752,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-21T11:03:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330845.12,
+  "lat" : 692685.09,
+  "radius" : 95,
+  "besonderheit" : null,
+  "stadtbezirk" : "17 - Obergiesing-Fasangarten"
 } ]
