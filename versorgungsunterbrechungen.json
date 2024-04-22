@@ -77,9 +77,9 @@
   "typ" : "UNGEPLANT",
   "sparte" : "STROM",
   "status" : "IN_BEARBEITUNG",
-  "lng" : 5342207.26,
-  "lat" : 692477.12,
-  "radius" : 1344,
+  "lng" : 5342311.74,
+  "lat" : 692277.66,
+  "radius" : 1577,
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
 } ]
