@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "20 - Hadern"
 }, {
-  "id" : 448753,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-22T13:00:00",
-  "ereignisEnde" : "2024-04-22T14:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5373093.57,
-  "lat" : 716721.6,
-  "radius" : 67,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448754,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-22T09:00:00",
@@ -54,6 +40,20 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448753,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-22T13:00:00",
+  "ereignisEnde" : "2024-04-22T14:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5373093.57,
+  "lat" : 716721.6,
+  "radius" : 67,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 }, {
   "id" : 448756,
   "nameExtern" : "Ausfall im Stromnetz",
