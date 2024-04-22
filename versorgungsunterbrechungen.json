@@ -68,4 +68,18 @@
   "radius" : 74,
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
+  "id" : 448770,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-22T16:00:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5342207.26,
+  "lat" : 692477.12,
+  "radius" : 1344,
+  "besonderheit" : null,
+  "stadtbezirk" : "12 - Schwabing-Freimann"
 } ]
