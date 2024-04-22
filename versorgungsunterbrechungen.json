@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "17 - Obergiesing-Fasangarten"
 }, {
-  "id" : 448751,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-21T10:36:00",
-  "ereignisEnde" : "2024-04-22T03:54:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337193.59,
-  "lat" : 691934.11,
-  "radius" : 38,
-  "besonderheit" : null,
-  "stadtbezirk" : "12 - Schwabing-Freimann"
-}, {
   "id" : 448754,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-22T09:00:00",
@@ -41,6 +27,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 }, {
+  "id" : 448751,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-21T10:36:00",
+  "ereignisEnde" : "2024-04-22T03:54:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5337193.59,
+  "lat" : 691934.11,
+  "radius" : 38,
+  "besonderheit" : null,
+  "stadtbezirk" : "12 - Schwabing-Freimann"
+}, {
   "id" : 448755,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-22T08:00:00",
@@ -48,7 +48,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5333045.48,
   "lat" : 686075.45,
   "radius" : 153,
@@ -62,7 +62,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5334615.43,
   "lat" : 682256.43,
   "radius" : 74,
