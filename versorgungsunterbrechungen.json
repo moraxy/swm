@@ -13,6 +13,34 @@
   "besonderheit" : null,
   "stadtbezirk" : "17 - Obergiesing-Fasangarten"
 }, {
+  "id" : 448755,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-22T08:00:00",
+  "ereignisEnde" : "2024-04-22T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5333045.48,
+  "lat" : 686075.45,
+  "radius" : 153,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
+}, {
+  "id" : 448756,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-22T08:00:00",
+  "ereignisEnde" : "2024-04-22T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334615.43,
+  "lat" : 682256.43,
+  "radius" : 74,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
   "id" : 448751,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-21T10:36:00",
