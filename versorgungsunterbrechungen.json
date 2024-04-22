@@ -1,18 +1,4 @@
 [ {
-  "id" : 448752,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-21T11:03:00",
-  "ereignisEnde" : "2024-04-21T12:45:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330845.12,
-  "lat" : 692685.09,
-  "radius" : 95,
-  "besonderheit" : null,
-  "stadtbezirk" : "17 - Obergiesing-Fasangarten"
-}, {
   "id" : 448753,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-22T13:00:00",
