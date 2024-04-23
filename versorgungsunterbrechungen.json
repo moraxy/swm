@@ -1,18 +1,4 @@
 [ {
-  "id" : 448751,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-21T10:36:00",
-  "ereignisEnde" : "2024-04-22T03:54:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337193.59,
-  "lat" : 691934.11,
-  "radius" : 38,
-  "besonderheit" : null,
-  "stadtbezirk" : "12 - Schwabing-Freimann"
-}, {
   "id" : 448755,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-22T08:00:00",
