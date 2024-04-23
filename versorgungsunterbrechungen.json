@@ -110,4 +110,18 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448788,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-23T14:45:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5336487.95,
+  "lat" : 687233.53,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
 } ]
