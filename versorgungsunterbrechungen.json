@@ -69,6 +69,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "12 - Schwabing-Freimann"
 }, {
+  "id" : 448773,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-23T11:30:00",
+  "ereignisEnde" : "2024-04-23T15:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338835.36,
+  "lat" : 702397.27,
+  "radius" : 51,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 448772,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-23T08:30:00",
