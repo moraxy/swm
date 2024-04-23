@@ -83,34 +83,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 448778,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-23T11:00:00",
-  "ereignisEnde" : "2024-04-23T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5330338.7,
-  "lat" : 686955.03,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
-  "id" : 448775,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-23T10:00:00",
-  "ereignisEnde" : "2024-04-23T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5331762.12,
-  "lat" : 696881.45,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 448776,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-23T09:00:00",
@@ -138,4 +110,32 @@
   "radius" : 30,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448778,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-23T11:00:00",
+  "ereignisEnde" : "2024-04-23T13:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330338.7,
+  "lat" : 686955.03,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448775,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-23T10:00:00",
+  "ereignisEnde" : "2024-04-23T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5331762.12,
+  "lat" : 696881.45,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
