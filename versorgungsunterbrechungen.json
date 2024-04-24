@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 448778,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-23T11:00:00",
-  "ereignisEnde" : "2024-04-23T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330338.7,
-  "lat" : 686955.03,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
   "id" : 448788,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-23T14:45:00",
