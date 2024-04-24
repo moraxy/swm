@@ -1,15 +1,1 @@
-[ {
-  "id" : 448788,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-23T14:45:00",
-  "ereignisEnde" : "2024-04-23T21:23:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336487.95,
-  "lat" : 687233.53,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
-} ]
+[ ]
