@@ -1,18 +1,4 @@
 [ {
-  "id" : 448839,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-27T14:45:00",
-  "ereignisEnde" : "2024-04-27T15:45:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5329542.28,
-  "lat" : 690523.12,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "18 - Untergiesing-Harlaching"
-}, {
   "id" : 448840,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-28T08:00:00",
