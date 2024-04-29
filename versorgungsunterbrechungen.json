@@ -12,4 +12,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
+}, {
+  "id" : 448844,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-29T08:00:00",
+  "ereignisEnde" : "2024-04-29T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5335462.61,
+  "lat" : 694466.56,
+  "radius" : 47,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
