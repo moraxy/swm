@@ -1,32 +1,4 @@
 [ {
-  "id" : 448840,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-28T08:00:00",
-  "ereignisEnde" : "2024-04-28T09:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330305.44,
-  "lat" : 686876.58,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
-}, {
-  "id" : 448842,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-29T09:00:00",
-  "ereignisEnde" : "2024-04-29T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5342916.29,
-  "lat" : 683127.8,
-  "radius" : 147,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
-}, {
   "id" : 448843,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-29T09:30:00",
@@ -68,4 +40,18 @@
   "radius" : 47,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 448842,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-29T09:00:00",
+  "ereignisEnde" : "2024-04-29T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5342916.29,
+  "lat" : 683127.8,
+  "radius" : 147,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
 } ]
