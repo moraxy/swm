@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "19 - Thalkirchen-Obersendling-Forstenried-Fürstenried-Solln"
 }, {
+  "id" : 448842,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-29T09:00:00",
+  "ereignisEnde" : "2024-04-29T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5342916.29,
+  "lat" : 683127.8,
+  "radius" : 147,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
   "id" : 448844,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-29T08:00:00",
