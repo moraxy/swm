@@ -1,18 +1,4 @@
 [ {
-  "id" : 448841,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-29T10:00:00",
-  "ereignisEnde" : "2024-04-29T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5329339.02,
-  "lat" : 690528.05,
-  "radius" : 85,
-  "besonderheit" : null,
-  "stadtbezirk" : "18 - Untergiesing-Harlaching"
-}, {
   "id" : 448844,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-29T08:00:00",
@@ -54,4 +40,18 @@
   "radius" : 55,
   "besonderheit" : null,
   "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
+}, {
+  "id" : 448841,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-29T10:00:00",
+  "ereignisEnde" : "2024-04-29T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5329339.02,
+  "lat" : 690528.05,
+  "radius" : 85,
+  "besonderheit" : null,
+  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
