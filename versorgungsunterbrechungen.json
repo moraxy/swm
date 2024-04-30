@@ -62,26 +62,12 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5334580.7,
   "lat" : 685178.77,
   "radius" : 84,
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
-}, {
-  "id" : 448858,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-30T08:00:00",
-  "ereignisEnde" : "2024-04-30T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5348064.73,
-  "lat" : 693013.93,
-  "radius" : 218,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
 }, {
   "id" : 448859,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -110,4 +96,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
+}, {
+  "id" : 448858,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-30T08:00:00",
+  "ereignisEnde" : "2024-04-30T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5348064.73,
+  "lat" : 693013.93,
+  "radius" : 218,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
