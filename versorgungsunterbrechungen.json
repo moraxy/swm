@@ -110,4 +110,18 @@
   "radius" : 218,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 448860,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-30T08:00:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337223.05,
+  "lat" : 691065.89,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "4 - Schwabing-West"
 } ]
