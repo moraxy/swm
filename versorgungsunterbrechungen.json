@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "4 - Schwabing-West"
 }, {
-  "id" : 448859,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-30T09:00:00",
-  "ereignisEnde" : "2024-04-30T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5331156.17,
-  "lat" : 697855.16,
-  "radius" : 107,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 448856,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-30T07:30:00",
@@ -68,4 +54,18 @@
   "radius" : 218,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 448859,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-30T09:00:00",
+  "ereignisEnde" : "2024-04-30T12:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5331156.17,
+  "lat" : 697855.16,
+  "radius" : 107,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 } ]
