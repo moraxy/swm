@@ -1,18 +1,4 @@
 [ {
-  "id" : 448843,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-29T09:30:00",
-  "ereignisEnde" : "2024-04-29T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337294.06,
-  "lat" : 688888.75,
-  "radius" : 55,
-  "besonderheit" : null,
-  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
-}, {
   "id" : 448842,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-29T09:00:00",
@@ -55,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
 }, {
-  "id" : 448856,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-30T07:30:00",
-  "ereignisEnde" : "2024-04-30T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5337237.95,
-  "lat" : 688979.24,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
-}, {
   "id" : 448858,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-30T08:00:00",
@@ -110,4 +82,18 @@
   "radius" : 107,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 448856,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-30T07:30:00",
+  "ereignisEnde" : "2024-04-30T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5337237.95,
+  "lat" : 688979.24,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
 } ]
