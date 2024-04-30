@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
 }, {
+  "id" : 448860,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-30T08:00:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337223.05,
+  "lat" : 691065.89,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "4 - Schwabing-West"
+}, {
   "id" : 448856,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-30T07:30:00",
@@ -54,18 +68,4 @@
   "radius" : 107,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
-  "id" : 448860,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-30T08:00:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5337223.05,
-  "lat" : 691065.89,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "4 - Schwabing-West"
 } ]
