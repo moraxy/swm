@@ -68,4 +68,32 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
+}, {
+  "id" : 448857,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-30T08:00:00",
+  "ereignisEnde" : "2024-04-30T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334580.7,
+  "lat" : 685178.77,
+  "radius" : 84,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 448858,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-04-30T08:00:00",
+  "ereignisEnde" : "2024-04-30T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5348064.73,
+  "lat" : 693013.93,
+  "radius" : 218,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
