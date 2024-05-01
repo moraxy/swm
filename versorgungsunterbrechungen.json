@@ -55,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 448869,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-01T09:00:00",
-  "ereignisEnde" : "2024-05-01T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5329244.08,
-  "lat" : 690644.0,
-  "radius" : 167,
-  "besonderheit" : null,
-  "stadtbezirk" : "18 - Untergiesing-Harlaching"
-}, {
   "id" : 448860,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-30T08:00:00",
@@ -96,4 +82,18 @@
   "radius" : 88,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 448869,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-01T09:00:00",
+  "ereignisEnde" : "2024-05-01T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5329244.08,
+  "lat" : 690644.0,
+  "radius" : 167,
+  "besonderheit" : null,
+  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
