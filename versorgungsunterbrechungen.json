@@ -1,18 +1,4 @@
 [ {
-  "id" : 448858,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-04-30T08:00:00",
-  "ereignisEnde" : "2024-04-30T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5348064.73,
-  "lat" : 693013.93,
-  "radius" : 218,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448859,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-04-30T09:00:00",
@@ -55,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "4 - Schwabing-West"
 }, {
-  "id" : 448867,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-01T08:30:00",
-  "ereignisEnde" : "2024-05-01T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5336583.67,
-  "lat" : 703002.8,
-  "radius" : 88,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448869,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-01T09:00:00",
@@ -82,4 +54,18 @@
   "radius" : 167,
   "besonderheit" : null,
   "stadtbezirk" : "18 - Untergiesing-Harlaching"
+}, {
+  "id" : 448867,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-01T08:30:00",
+  "ereignisEnde" : "2024-05-01T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5336583.67,
+  "lat" : 703002.8,
+  "radius" : 88,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
 } ]
