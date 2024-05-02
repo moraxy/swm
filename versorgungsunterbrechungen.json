@@ -41,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
 }, {
-  "id" : 448873,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-02T12:00:00",
-  "ereignisEnde" : "2024-05-02T14:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5342962.98,
-  "lat" : 683205.41,
-  "radius" : 47,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
-}, {
   "id" : 448874,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-02T11:00:00",
@@ -68,6 +54,20 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
+}, {
+  "id" : 448873,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-02T12:00:00",
+  "ereignisEnde" : "2024-05-02T14:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5342962.98,
+  "lat" : 683205.41,
+  "radius" : 47,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
 }, {
   "id" : 448875,
   "nameExtern" : "Ausfall im Stromnetz",
