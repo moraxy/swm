@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
 }, {
-  "id" : 448877,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-02T09:00:00",
-  "ereignisEnde" : "2024-05-02T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337116.05,
-  "lat" : 688926.5,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
-}, {
   "id" : 448874,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-02T11:00:00",
