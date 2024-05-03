@@ -1,18 +1,4 @@
 [ {
-  "id" : 448878,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-02T09:00:00",
-  "ereignisEnde" : "2024-05-02T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338361.37,
-  "lat" : 684718.97,
-  "radius" : 112,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
   "id" : 448874,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-02T11:00:00",
@@ -38,34 +24,6 @@
   "lng" : 5342962.98,
   "lat" : 683205.41,
   "radius" : 47,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
-}, {
-  "id" : 448875,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-02T10:00:00",
-  "ereignisEnde" : "2024-05-02T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5343005.89,
-  "lat" : 683112.58,
-  "radius" : 43,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
-}, {
-  "id" : 448876,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-02T10:00:00",
-  "ereignisEnde" : "2024-05-02T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5342959.52,
-  "lat" : 683087.76,
-  "radius" : 35,
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
 }, {
