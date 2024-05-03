@@ -1,18 +1,4 @@
 [ {
-  "id" : 448886,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-02T20:15:00",
-  "ereignisEnde" : "2024-05-03T07:30:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331811.66,
-  "lat" : 687311.31,
-  "radius" : 144,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 448890,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-03T12:30:00",
@@ -26,4 +12,18 @@
   "radius" : 120,
   "besonderheit" : null,
   "stadtbezirk" : "4 - Schwabing-West"
+}, {
+  "id" : 448886,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-02T20:15:00",
+  "ereignisEnde" : "2024-05-03T07:30:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5331811.66,
+  "lat" : 687311.31,
+  "radius" : 144,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
