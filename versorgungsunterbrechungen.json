@@ -1,18 +1,4 @@
 [ {
-  "id" : 448874,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-02T11:00:00",
-  "ereignisEnde" : "2024-05-02T12:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5337192.18,
-  "lat" : 688903.69,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "9 - Neuhausen-Nymphenburg"
-}, {
   "id" : 448873,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-02T12:00:00",
@@ -40,4 +26,18 @@
   "radius" : 144,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 448890,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-03T12:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5336935.81,
+  "lat" : 691599.2,
+  "radius" : 120,
+  "besonderheit" : null,
+  "stadtbezirk" : "4 - Schwabing-West"
 } ]
