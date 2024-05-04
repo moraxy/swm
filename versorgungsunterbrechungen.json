@@ -1,18 +1,4 @@
 [ {
-  "id" : 448890,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-03T12:30:00",
-  "ereignisEnde" : "2024-05-03T20:43:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336935.81,
-  "lat" : 691599.2,
-  "radius" : 120,
-  "besonderheit" : null,
-  "stadtbezirk" : "4 - Schwabing-West"
-}, {
   "id" : 448896,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-04T12:15:00",
