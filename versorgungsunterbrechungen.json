@@ -1,1 +1,15 @@
-[ ]
+[ {
+  "id" : 448900,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-06T07:30:00",
+  "ereignisEnde" : "2024-05-06T08:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5328434.58,
+  "lat" : 699924.13,
+  "radius" : 40,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+} ]
