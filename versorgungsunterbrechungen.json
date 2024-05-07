@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 448927,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-06T17:44:00",
-  "ereignisEnde" : "2024-05-07T01:50:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5335338.18,
-  "lat" : 694371.0,
-  "radius" : 66,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
   "id" : 448929,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-07T09:00:00",
