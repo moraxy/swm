@@ -1,4 +1,18 @@
 [ {
+  "id" : 448928,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-07T09:00:00",
+  "ereignisEnde" : "2024-05-07T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5346667.84,
+  "lat" : 696572.93,
+  "radius" : 133,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 448927,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-06T17:44:00",
@@ -13,34 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
 }, {
-  "id" : 448929,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-07T09:00:00",
-  "ereignisEnde" : "2024-05-07T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5340727.85,
-  "lat" : 682993.1,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
-}, {
-  "id" : 448928,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-07T09:00:00",
-  "ereignisEnde" : "2024-05-07T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5346667.84,
-  "lat" : 696572.93,
-  "radius" : 133,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448930,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-07T10:00:00",
@@ -54,4 +40,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
+}, {
+  "id" : 448929,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-07T09:00:00",
+  "ereignisEnde" : "2024-05-07T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5340727.85,
+  "lat" : 682993.1,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
 } ]
