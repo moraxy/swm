@@ -1,17 +1,17 @@
 [ {
-  "id" : 448928,
+  "id" : 448927,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-07T09:00:00",
-  "ereignisEnde" : "2024-05-07T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
+  "ereignisBeginn" : "2024-05-06T17:44:00",
+  "ereignisEnde" : "2024-05-07T01:50:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5346667.84,
-  "lat" : 696572.93,
-  "radius" : 133,
+  "status" : "ERLEDIGT",
+  "lng" : 5335338.18,
+  "lat" : 694371.0,
+  "radius" : 66,
   "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
+  "stadtbezirk" : "13 - Bogenhausen"
 }, {
   "id" : 448930,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -27,19 +27,19 @@
   "besonderheit" : null,
   "stadtbezirk" : "10 - Moosach"
 }, {
-  "id" : 448927,
+  "id" : 448928,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-06T17:44:00",
-  "ereignisEnde" : "2024-05-07T01:50:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
+  "ereignisBeginn" : "2024-05-07T09:00:00",
+  "ereignisEnde" : "2024-05-07T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5335338.18,
-  "lat" : 694371.0,
-  "radius" : 66,
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5346667.84,
+  "lat" : 696572.93,
+  "radius" : 133,
   "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
+  "stadtbezirk" : "99 - außerhalb München"
 }, {
   "id" : 448929,
   "nameExtern" : "Ausfall im Stromnetz",
