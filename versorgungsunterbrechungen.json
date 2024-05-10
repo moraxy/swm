@@ -1,18 +1,4 @@
 [ {
-  "id" : 448959,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-09T15:15:00",
-  "ereignisEnde" : "2024-05-09T16:07:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336806.08,
-  "lat" : 682707.81,
-  "radius" : 1419,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
   "id" : 448960,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-10T08:00:00",
