@@ -12,4 +12,18 @@
   "radius" : 1419,
   "besonderheit" : null,
   "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
+  "id" : 448960,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-10T08:00:00",
+  "ereignisEnde" : "2024-05-10T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5331177.31,
+  "lat" : 691482.3,
+  "radius" : 69,
+  "besonderheit" : null,
+  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
