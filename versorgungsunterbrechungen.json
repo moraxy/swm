@@ -1,15 +1,1 @@
-[ {
-  "id" : 448960,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-10T08:00:00",
-  "ereignisEnde" : "2024-05-10T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331177.31,
-  "lat" : 691482.3,
-  "radius" : 69,
-  "besonderheit" : null,
-  "stadtbezirk" : "18 - Untergiesing-Harlaching"
-} ]
+[ ]
