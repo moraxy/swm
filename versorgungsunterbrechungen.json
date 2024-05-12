@@ -35,9 +35,9 @@
   "typ" : "UNGEPLANT",
   "sparte" : "STROM",
   "status" : "IN_BEARBEITUNG",
-  "lng" : 5334148.29,
-  "lat" : 692602.54,
-  "radius" : 52,
+  "lng" : 5334106.3,
+  "lat" : 692559.48,
+  "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
 } ]
