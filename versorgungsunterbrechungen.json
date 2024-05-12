@@ -26,4 +26,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "14 - Berg am Laim"
+}, {
+  "id" : 448973,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-13T00:15:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334148.29,
+  "lat" : 692602.54,
+  "radius" : 52,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
 } ]
