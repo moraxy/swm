@@ -1,18 +1,4 @@
 [ {
-  "id" : 448969,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-12T14:15:00",
-  "ereignisEnde" : "2024-05-12T22:58:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5332777.44,
-  "lat" : 696211.09,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "14 - Berg am Laim"
-}, {
   "id" : 448972,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-13T06:00:00",
