@@ -13,20 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "14 - Berg am Laim"
 }, {
-  "id" : 448973,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-13T00:15:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5334106.3,
-  "lat" : 692559.48,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "5 - Au-Haidhausen"
-}, {
   "id" : 448972,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-13T06:00:00",
@@ -54,4 +40,18 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 448973,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-13T00:15:00",
+  "ereignisEnde" : "2024-05-13T01:04:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5334106.3,
+  "lat" : 692559.48,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
 } ]
