@@ -27,34 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 448971,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-13T11:00:00",
-  "ereignisEnde" : "2024-05-13T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5346553.05,
-  "lat" : 696685.91,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 449003,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-14T11:00:00",
-  "ereignisEnde" : "2024-05-14T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5346573.3,
-  "lat" : 696575.82,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 448999,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-14T08:00:00",
@@ -69,6 +41,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
+  "id" : 449003,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-14T11:00:00",
+  "ereignisEnde" : "2024-05-14T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5346573.3,
+  "lat" : 696575.82,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 448997,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-14T08:00:00",
@@ -76,7 +62,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5336083.87,
   "lat" : 697577.2,
   "radius" : 100,
@@ -90,7 +76,7 @@
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
+  "status" : "ERLEDIGT",
   "lng" : 5336114.09,
   "lat" : 697516.14,
   "radius" : 100,
