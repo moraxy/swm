@@ -27,33 +27,19 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 449028,
+  "id" : 449030,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-15T10:00:00",
-  "ereignisEnde" : "2024-05-15T11:00:00",
+  "ereignisBeginn" : "2024-05-15T12:00:00",
+  "ereignisEnde" : "2024-05-15T15:00:00",
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
   "status" : "GEPLANT",
-  "lng" : 5331578.37,
-  "lat" : 697453.49,
+  "lng" : 5372544.45,
+  "lat" : 717117.23,
   "radius" : 100,
   "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
-  "id" : 449029,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-15T10:00:00",
-  "ereignisEnde" : "2024-05-15T11:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5340658.57,
-  "lat" : 683014.98,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "23 - Allach-Untermenzing"
+  "stadtbezirk" : "99 - außerhalb München"
 }, {
   "id" : 449023,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -125,6 +111,34 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
+  "id" : 449028,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-15T10:00:00",
+  "ereignisEnde" : "2024-05-15T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5331578.37,
+  "lat" : 697453.49,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 449029,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-15T10:00:00",
+  "ereignisEnde" : "2024-05-15T11:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5340658.57,
+  "lat" : 683014.98,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
   "id" : 448999,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-14T08:00:00",
@@ -180,32 +194,4 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
-}, {
-  "id" : 449000,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-14T09:00:00",
-  "ereignisEnde" : "2024-05-14T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5346676.05,
-  "lat" : 696639.46,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 449001,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-14T09:00:00",
-  "ereignisEnde" : "2024-05-14T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5346684.37,
-  "lat" : 696552.32,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
 } ]
