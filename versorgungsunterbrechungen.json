@@ -1,32 +1,4 @@
 [ {
-  "id" : 449002,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-14T10:00:00",
-  "ereignisEnde" : "2024-05-14T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5346599.65,
-  "lat" : 696503.58,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 449004,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-14T10:00:00",
-  "ereignisEnde" : "2024-05-14T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338174.86,
-  "lat" : 704927.08,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 449030,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-15T12:00:00",
@@ -111,20 +83,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 449028,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-15T10:00:00",
-  "ereignisEnde" : "2024-05-15T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5331578.37,
-  "lat" : 697453.49,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 449029,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-15T10:00:00",
@@ -139,19 +97,19 @@
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
 }, {
-  "id" : 448999,
+  "id" : 449028,
   "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-14T08:00:00",
-  "ereignisEnde" : "2024-05-14T11:00:00",
+  "ereignisBeginn" : "2024-05-15T10:00:00",
+  "ereignisEnde" : "2024-05-15T11:00:00",
   "unterbrechungsgrund" : "INSTAND",
   "typ" : "GEPLANT",
   "sparte" : "STROM",
   "status" : "ERLEDIGT",
-  "lng" : 5372518.68,
-  "lat" : 717125.29,
+  "lng" : 5331578.37,
+  "lat" : 697453.49,
   "radius" : 100,
   "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
   "id" : 449003,
   "nameExtern" : "Ausfall im Stromnetz",
