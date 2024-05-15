@@ -27,6 +27,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
+  "id" : 449024,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-15T07:00:00",
+  "ereignisEnde" : "2024-05-15T08:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5338929.8,
+  "lat" : 683009.03,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
   "id" : 449023,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-14T15:00:00",
