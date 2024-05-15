@@ -41,6 +41,48 @@
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
 }, {
+  "id" : 449025,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-15T08:00:00",
+  "ereignisEnde" : "2024-05-15T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334802.63,
+  "lat" : 685092.13,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 449026,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-15T08:00:00",
+  "ereignisEnde" : "2024-05-15T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334939.64,
+  "lat" : 685080.82,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
+}, {
+  "id" : 449027,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-15T08:00:00",
+  "ereignisEnde" : "2024-05-15T09:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5331381.6,
+  "lat" : 697531.52,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
   "id" : 449023,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-14T15:00:00",
