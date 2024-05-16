@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
 }, {
-  "id" : 449028,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-15T10:00:00",
-  "ereignisEnde" : "2024-05-15T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5331578.37,
-  "lat" : 697453.49,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 449025,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-15T08:00:00",
