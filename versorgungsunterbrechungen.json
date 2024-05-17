@@ -40,4 +40,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 449066,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-17T08:30:00",
+  "ereignisEnde" : "2024-05-17T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5332214.84,
+  "lat" : 691622.95,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "18 - Untergiesing-Harlaching"
 } ]
