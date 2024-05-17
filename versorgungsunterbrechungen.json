@@ -1,18 +1,4 @@
 [ {
-  "id" : 449049,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-16T08:00:00",
-  "ereignisEnde" : "2024-05-16T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336315.43,
-  "lat" : 702499.17,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-}, {
   "id" : 449066,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-17T08:30:00",
