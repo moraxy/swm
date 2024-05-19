@@ -1,1 +1,15 @@
-[ ]
+[ {
+  "id" : 449076,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-19T05:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5336412.71,
+  "lat" : 691773.75,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "3 - Maxvorstadt"
+} ]
