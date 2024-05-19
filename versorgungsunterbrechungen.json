@@ -1,4 +1,18 @@
 [ {
+  "id" : 449074,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-19T09:00:00",
+  "ereignisEnde" : "2024-05-19T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5333081.81,
+  "lat" : 699672.18,
+  "radius" : 78,
+  "besonderheit" : null,
+  "stadtbezirk" : "15 - Trudering-Riem"
+}, {
   "id" : 449076,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-19T05:30:00",
