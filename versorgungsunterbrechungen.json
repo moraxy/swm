@@ -13,6 +13,20 @@
   "besonderheit" : null,
   "stadtbezirk" : "8 - Schwanthalerhöhe"
 }, {
+  "id" : 449079,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-20T04:37:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5372674.36,
+  "lat" : 717157.39,
+  "radius" : 356,
+  "besonderheit" : null,
+  "stadtbezirk" : "99 - außerhalb München"
+}, {
   "id" : 449074,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-19T09:00:00",
