@@ -41,20 +41,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
-  "id" : 449076,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-19T05:30:00",
-  "ereignisEnde" : "2024-05-19T07:30:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5336412.71,
-  "lat" : 691773.75,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "3 - Maxvorstadt"
-}, {
   "id" : 449075,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-19T18:00:00",
