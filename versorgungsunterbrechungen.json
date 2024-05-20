@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
 }, {
-  "id" : 449074,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-19T09:00:00",
-  "ereignisEnde" : "2024-05-19T12:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333081.81,
-  "lat" : 699672.18,
-  "radius" : 78,
-  "besonderheit" : null,
-  "stadtbezirk" : "15 - Trudering-Riem"
-}, {
   "id" : 449075,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-19T18:00:00",
