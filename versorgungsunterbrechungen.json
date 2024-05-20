@@ -26,18 +26,4 @@
   "radius" : 356,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 449075,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-19T18:00:00",
-  "ereignisEnde" : "2024-05-19T20:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5338201.46,
-  "lat" : 704983.66,
-  "radius" : 47,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
 } ]
