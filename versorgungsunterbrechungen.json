@@ -54,18 +54,4 @@
   "radius" : 47,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
-}, {
-  "id" : 449077,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-19T06:30:00",
-  "ereignisEnde" : "2024-05-19T08:30:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333895.86,
-  "lat" : 693226.56,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "5 - Au-Haidhausen"
 } ]
