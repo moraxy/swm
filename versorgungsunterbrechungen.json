@@ -1,18 +1,4 @@
 [ {
-  "id" : 449078,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-20T03:11:00",
-  "ereignisEnde" : "2024-05-20T04:40:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5333986.33,
-  "lat" : 688997.6,
-  "radius" : 1608,
-  "besonderheit" : null,
-  "stadtbezirk" : "8 - Schwanthalerhöhe"
-}, {
   "id" : 449079,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-20T04:37:00",
