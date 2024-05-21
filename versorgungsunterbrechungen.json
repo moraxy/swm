@@ -20,7 +20,7 @@
   "unterbrechungsgrund" : "FREMDBESCH",
   "typ" : "UNGEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5331341.35,
   "lat" : 686300.82,
   "radius" : 38,
