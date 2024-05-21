@@ -1,15 +1,1 @@
-[ {
-  "id" : 449079,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-20T04:37:00",
-  "ereignisEnde" : "2024-05-20T05:30:00",
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5372674.36,
-  "lat" : 717157.39,
-  "radius" : 356,
-  "besonderheit" : null,
-  "stadtbezirk" : "99 - außerhalb München"
-} ]
+[ ]
