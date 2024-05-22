@@ -26,4 +26,18 @@
   "radius" : 38,
   "besonderheit" : null,
   "stadtbezirk" : "7 - Sendling-Westpark"
+}, {
+  "id" : 449101,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-22T08:00:00",
+  "ereignisEnde" : "2024-05-22T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5339425.11,
+  "lat" : 686038.68,
+  "radius" : 90,
+  "besonderheit" : null,
+  "stadtbezirk" : "10 - Moosach"
 } ]
