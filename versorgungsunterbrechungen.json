@@ -1,18 +1,4 @@
 [ {
-  "id" : 449093,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-21T13:00:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "FREMDBESCH",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5331341.35,
-  "lat" : 686300.82,
-  "radius" : 38,
-  "besonderheit" : null,
-  "stadtbezirk" : "7 - Sendling-Westpark"
-}, {
   "id" : 449101,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-22T08:00:00",
@@ -40,4 +26,18 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
+}, {
+  "id" : 449093,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-21T13:00:00",
+  "ereignisEnde" : "2024-05-21T15:20:00",
+  "unterbrechungsgrund" : "FREMDBESCH",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5331341.35,
+  "lat" : 686300.82,
+  "radius" : 38,
+  "besonderheit" : null,
+  "stadtbezirk" : "7 - Sendling-Westpark"
 } ]
