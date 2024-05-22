@@ -34,7 +34,7 @@
   "unterbrechungsgrund" : "TECHDEF",
   "typ" : "UNGEPLANT",
   "sparte" : "STROM",
-  "status" : "GEPLANT",
+  "status" : "IN_BEARBEITUNG",
   "lng" : 5339995.48,
   "lat" : 682927.66,
   "radius" : 36,
