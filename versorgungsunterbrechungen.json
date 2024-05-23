@@ -1,4 +1,32 @@
 [ {
+  "id" : 449118,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-23T10:00:00",
+  "ereignisEnde" : "2024-05-23T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334116.64,
+  "lat" : 692551.21,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
+}, {
+  "id" : 449119,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-23T10:00:00",
+  "ereignisEnde" : "2024-05-23T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334100.18,
+  "lat" : 692567.14,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
+}, {
   "id" : 449101,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-22T08:00:00",
