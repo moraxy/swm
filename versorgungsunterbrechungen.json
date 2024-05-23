@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
 }, {
-  "id" : 449134,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-23T18:30:00",
-  "ereignisEnde" : null,
-  "unterbrechungsgrund" : "TECHDEF",
-  "typ" : "UNGEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5337961.49,
-  "lat" : 695598.87,
-  "radius" : 84,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
   "id" : 449117,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-23T09:00:00",
@@ -68,4 +54,18 @@
   "radius" : 36,
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
+  "id" : 449134,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-23T18:30:00",
+  "ereignisEnde" : "2024-05-23T21:05:00",
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5337961.49,
+  "lat" : 695598.87,
+  "radius" : 84,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
