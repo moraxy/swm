@@ -40,4 +40,18 @@
   "radius" : 36,
   "besonderheit" : null,
   "stadtbezirk" : "23 - Allach-Untermenzing"
+}, {
+  "id" : 449117,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-23T09:00:00",
+  "ereignisEnde" : "2024-05-23T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334093.18,
+  "lat" : 692547.18,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "5 - Au-Haidhausen"
 } ]
