@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "5 - Au-Haidhausen"
 }, {
-  "id" : 449117,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-23T09:00:00",
-  "ereignisEnde" : "2024-05-23T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5334093.18,
-  "lat" : 692547.18,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "5 - Au-Haidhausen"
-}, {
   "id" : 449134,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-23T18:30:00",
