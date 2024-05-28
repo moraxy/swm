@@ -27,6 +27,34 @@
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
 }, {
+  "id" : 449185,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-28T08:00:00",
+  "ereignisEnde" : "2024-05-28T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5343301.2,
+  "lat" : 689138.17,
+  "radius" : 85,
+  "besonderheit" : null,
+  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
+}, {
+  "id" : 449187,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-28T08:00:00",
+  "ereignisEnde" : "2024-05-28T12:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5331319.69,
+  "lat" : 685200.41,
+  "radius" : 57,
+  "besonderheit" : null,
+  "stadtbezirk" : "20 - Hadern"
+}, {
   "id" : 449177,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-28T04:00:00",
