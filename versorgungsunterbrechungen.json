@@ -26,4 +26,18 @@
   "radius" : 39,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
+}, {
+  "id" : 449177,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-28T04:00:00",
+  "ereignisEnde" : "2024-05-28T05:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5339108.61,
+  "lat" : 678772.7,
+  "radius" : 72,
+  "besonderheit" : null,
+  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 } ]
