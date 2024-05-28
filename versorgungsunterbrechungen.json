@@ -1,18 +1,4 @@
 [ {
-  "id" : 449149,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-27T08:00:00",
-  "ereignisEnde" : "2024-05-27T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5330505.44,
-  "lat" : 691267.73,
-  "radius" : 40,
-  "besonderheit" : null,
-  "stadtbezirk" : "18 - Untergiesing-Harlaching"
-}, {
   "id" : 449150,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-27T13:00:00",
@@ -26,20 +12,6 @@
   "radius" : 39,
   "besonderheit" : null,
   "stadtbezirk" : "15 - Trudering-Riem"
-}, {
-  "id" : 449180,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-28T10:00:00",
-  "ereignisEnde" : "2024-05-28T11:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5338919.27,
-  "lat" : 678965.64,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 }, {
   "id" : 449177,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -96,4 +68,18 @@
   "radius" : 142,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 449180,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-28T10:00:00",
+  "ereignisEnde" : "2024-05-28T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5338919.27,
+  "lat" : 678965.64,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "22 - Aubing-Lochhausen-Langwied"
 } ]
