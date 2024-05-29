@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 449182,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-29T10:30:00",
-  "ereignisEnde" : "2024-05-29T11:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "GEPLANT",
-  "lng" : 5330904.65,
-  "lat" : 695758.47,
-  "radius" : 72,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
-}, {
   "id" : 449184,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-29T09:00:00",
@@ -54,20 +40,6 @@
   "radius" : 32,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
-}, {
-  "id" : 449183,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-29T09:30:00",
-  "ereignisEnde" : "2024-05-29T10:30:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5330842.41,
-  "lat" : 695661.76,
-  "radius" : 45,
-  "besonderheit" : null,
-  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
   "id" : 449186,
   "nameExtern" : "Ausfall im Stromnetz",
@@ -96,6 +68,34 @@
   "radius" : 25,
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
+}, {
+  "id" : 449182,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-29T10:30:00",
+  "ereignisEnde" : "2024-05-29T11:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5330904.65,
+  "lat" : 695758.47,
+  "radius" : 72,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 449183,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-29T09:30:00",
+  "ereignisEnde" : "2024-05-29T10:30:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5330842.41,
+  "lat" : 695661.76,
+  "radius" : 45,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
   "id" : 449185,
   "nameExtern" : "Ausfall im Stromnetz",
