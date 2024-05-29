@@ -27,20 +27,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 449178,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-29T13:00:00",
-  "ereignisEnde" : "2024-05-29T15:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5341884.12,
-  "lat" : 691257.07,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "11 - Milbertshofen-Am Hart"
-}, {
   "id" : 449176,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-29T13:30:00",
@@ -54,6 +40,20 @@
   "radius" : 81,
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
+  "id" : 449178,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-29T13:00:00",
+  "ereignisEnde" : "2024-05-29T15:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5341884.12,
+  "lat" : 691257.07,
+  "radius" : 25,
+  "besonderheit" : null,
+  "stadtbezirk" : "11 - Milbertshofen-Am Hart"
 }, {
   "id" : 449186,
   "nameExtern" : "Ausfall im Stromnetz",
