@@ -1,4 +1,32 @@
 [ {
+  "id" : 449184,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-29T09:00:00",
+  "ereignisEnde" : "2024-05-29T11:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5337694.95,
+  "lat" : 695326.06,
+  "radius" : 32,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 449186,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-05-29T09:00:00",
+  "ereignisEnde" : "2024-05-29T09:45:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5330869.52,
+  "lat" : 695670.46,
+  "radius" : 28,
+  "besonderheit" : null,
+  "stadtbezirk" : "16 - Ramersdorf-Perlach"
+}, {
   "id" : 449188,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-29T08:00:00",
