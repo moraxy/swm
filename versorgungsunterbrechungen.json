@@ -55,20 +55,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "16 - Ramersdorf-Perlach"
 }, {
-  "id" : 449188,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-05-29T08:00:00",
-  "ereignisEnde" : "2024-05-29T10:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "ERLEDIGT",
-  "lng" : 5342235.61,
-  "lat" : 689467.51,
-  "radius" : 25,
-  "besonderheit" : null,
-  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
-}, {
   "id" : 449183,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-05-29T09:30:00",
