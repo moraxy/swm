@@ -40,4 +40,18 @@
   "radius" : 137,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 449223,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-06-02T17:42:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5343750.68,
+  "lat" : 687484.56,
+  "radius" : 62,
+  "besonderheit" : null,
+  "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 } ]
