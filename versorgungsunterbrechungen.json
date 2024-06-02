@@ -12,4 +12,18 @@
   "radius" : 54,
   "besonderheit" : null,
   "stadtbezirk" : "25 - Laim"
+}, {
+  "id" : 449221,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-06-02T08:30:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5334188.63,
+  "lat" : 685533.94,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "25 - Laim"
 } ]
