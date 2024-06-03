@@ -40,4 +40,18 @@
   "radius" : 62,
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
+}, {
+  "id" : 449224,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-06-03T08:00:00",
+  "ereignisEnde" : "2024-06-03T10:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "GEPLANT",
+  "lng" : 5334342.27,
+  "lat" : 688410.29,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "8 - Schwanthalerhöhe"
 } ]
