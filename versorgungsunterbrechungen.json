@@ -40,4 +40,18 @@
   "radius" : 137,
   "besonderheit" : null,
   "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 449234,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-06-03T09:00:00",
+  "ereignisEnde" : "2024-06-04T13:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337630.14,
+  "lat" : 695342.64,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
