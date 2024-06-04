@@ -68,4 +68,18 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 449236,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-06-04T08:15:00",
+  "ereignisEnde" : null,
+  "unterbrechungsgrund" : "TECHDEF",
+  "typ" : "UNGEPLANT",
+  "sparte" : "STROM",
+  "status" : "IN_BEARBEITUNG",
+  "lng" : 5337119.33,
+  "lat" : 696446.93,
+  "radius" : 122,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
 } ]
