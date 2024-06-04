@@ -13,34 +13,6 @@
   "besonderheit" : null,
   "stadtbezirk" : "24 - Feldmoching-Hasenbergl"
 }, {
-  "id" : 449234,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-06-03T09:00:00",
-  "ereignisEnde" : "2024-06-04T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5337630.14,
-  "lat" : 695342.64,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "13 - Bogenhausen"
-}, {
-  "id" : 449232,
-  "nameExtern" : "Ausfall im Stromnetz",
-  "ereignisBeginn" : "2024-06-04T08:00:00",
-  "ereignisEnde" : "2024-06-04T13:00:00",
-  "unterbrechungsgrund" : "INSTAND",
-  "typ" : "GEPLANT",
-  "sparte" : "STROM",
-  "status" : "IN_BEARBEITUNG",
-  "lng" : 5337880.22,
-  "lat" : 683870.24,
-  "radius" : 100,
-  "besonderheit" : null,
-  "stadtbezirk" : "21 - Pasing-Obermenzing"
-}, {
   "id" : 449236,
   "nameExtern" : "Ausfall im Stromnetz",
   "ereignisBeginn" : "2024-06-04T08:15:00",
@@ -68,4 +40,32 @@
   "radius" : 100,
   "besonderheit" : null,
   "stadtbezirk" : "99 - außerhalb München"
+}, {
+  "id" : 449234,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-06-03T09:00:00",
+  "ereignisEnde" : "2024-06-04T13:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5337630.14,
+  "lat" : 695342.64,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "13 - Bogenhausen"
+}, {
+  "id" : 449232,
+  "nameExtern" : "Ausfall im Stromnetz",
+  "ereignisBeginn" : "2024-06-04T08:00:00",
+  "ereignisEnde" : "2024-06-04T13:00:00",
+  "unterbrechungsgrund" : "INSTAND",
+  "typ" : "GEPLANT",
+  "sparte" : "STROM",
+  "status" : "ERLEDIGT",
+  "lng" : 5337880.22,
+  "lat" : 683870.24,
+  "radius" : 100,
+  "besonderheit" : null,
+  "stadtbezirk" : "21 - Pasing-Obermenzing"
 } ]
